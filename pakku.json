@@ -1,7 +1,4 @@
 {
     "name": "Rosedalean SMP",
-    "version": "0.0.1",
-    "overrides": [
-        "config"
-    ]
+    "version": "3.9.2"
 }
