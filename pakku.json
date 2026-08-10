@@ -1,5 +1,10 @@
 {
     "name": "Rosedalean SMP",
     "version": "3.9.2-alpha",
+    "projects": {
+        "geckolib": {
+            "side": "BOTH"
+        }
+    },
     "export_server_side_projects_to_client": true
 }
