@@ -1,0 +1,41 @@
+{
+	id: "1BC377CF7DB0B217"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "create:cogwheel" }
+		{ item: "create:large_cogwheel" }
+		{ item: "create:sturdy_sheet", weight: 0.2f }
+		{
+			type: "xp"
+			xp: 3
+		}
+		{
+			type: "xp"
+			xp: 12
+		}
+		{ item: "create:schematic_table", weight: 0.1f }
+		{ item: "create:precision_mechanism", random_bonus: 1, weight: 0.1f }
+		{ item: "create:dough" }
+		{ item: "create:shaft", random_bonus: 3 }
+		{ item: "create:rotation_speed_controller", weight: 0.1f }
+		{ item: "create:mechanical_piston" }
+		{ item: "create:hand_crank" }
+		{ item: "createaddition:spool" }
+		{ item: "create:encased_fan" }
+		{ item: "create:water_wheel" }
+		{ item: "create:blaze_cake", weight: 0.5f }
+		{ item: "create:speedometer" }
+		{ item: "create:brown_toolbox" }
+		{ item: "create:stressometer" }
+		{ count: 5, item: "create:gearbox" }
+		{ count: 10, item: "create:fluid_pipe" }
+		{ count: 2, item: "create:item_drain" }
+		{ count: 4, item: "create:fluid_tank" }
+		{ count: 4, item: "create:chute" }
+		{ item: "create:depot" }
+		{ count: 4, item: "create:sticky_mechanical_piston" }
+		{ count: 2, item: "create:andesite_funnel" }
+		{ count: 2, item: "create:brass_funnel" }
+	]
+}

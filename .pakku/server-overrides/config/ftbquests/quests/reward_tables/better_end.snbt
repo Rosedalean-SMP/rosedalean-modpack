@@ -1,0 +1,16 @@
+{
+	icon: "minecraft:end_stone"
+	id: "69C015887EDC0D98"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ item: "betterend:flavolite_lantern" }
+		{ item: "betterend:iron_chandelier" }
+		{ item: "betterend:music_disc_strange_and_alien" }
+		{ item: "betterend:music_disc_grasping_at_stars" }
+		{ item: "betterend:music_disc_endseeker" }
+		{ item: "betterend:music_disc_eo_dracona" }
+		{ item: "betterend:mossy_glowshroom_sapling" }
+	]
+	title: "Better End"
+}

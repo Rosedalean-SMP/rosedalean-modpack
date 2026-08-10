@@ -1,0 +1,49 @@
+{
+	icon: "meadow:piece_of_cheese"
+	id: "6937FBFC43CB048E"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ item: "farm_and_charm:scarecrow" }
+		{
+			item: {
+				Count: 1
+				id: "farm_and_charm:dungarees"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "herbalbrews:cauldron" }
+		{ item: "herbalbrews:green_tea_leaf" }
+		{ item: "meadow:oil_lantern" }
+		{ item: "meadow:piece_of_cheese" }
+		{ item: "vinery:red_grape_seeds" }
+		{ item: "vinery:basket" }
+		{ item: "bakery:baguette" }
+		{ item: "bakery:croissant" }
+		{ item: "beachparty:beach_parasol" }
+		{ item: "beachparty:music_disc_beachparty" }
+		{ item: "brewery:beer_mug" }
+		{ item: "candlelight:cooking_pot" }
+		{
+			item: {
+				Count: 1
+				id: "candlelight:cooking_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "brewery:brewfest_trousers"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Lets do"
+}

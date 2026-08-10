@@ -1,0 +1,12 @@
+{
+	icon: "minecraft:nether_wart"
+	id: "2DEBEB76406EDB5D"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ item: "betternether:bricks_fire_bowl" }
+		{ item: "betternether:willow_sapling" }
+		{ item: "minecraft:nether_wart" }
+	]
+	title: "Better nether"
+}

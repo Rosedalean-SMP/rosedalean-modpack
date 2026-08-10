@@ -1,0 +1,772 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: "65ADA9119A2BAB4C"
+	id: "2E315628D37B3432"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Punch a tree"]
+			icon: "minecraft:oak_log"
+			id: "2E3F60CD5D62CA7C"
+			rewards: [{
+				count: 10
+				id: "32370DC4C0798EDB"
+				item: "minecraft:apple"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "Get wood"
+			tasks: [{
+				count: 5L
+				id: "5A63008A80376C50"
+				item: { Count: 5, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			title: "Where it all starts"
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2E3F60CD5D62CA7C"]
+			id: "7E746947B99386E1"
+			rewards: [
+				{
+					count: 4
+					id: "7DD96F8D797449B2"
+					item: "minecraft:wheat"
+					type: "item"
+				}
+				{
+					id: "17A2BCFE64632FBC"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "7BECFC0B1DA08655"
+					item: "minecraft:name_tag"
+					type: "item"
+				}
+			]
+			shape: "heart"
+			subtitle: "Expand the farm"
+			tasks: [{
+				advancement: "minecraft:husbandry/breed_an_animal"
+				criterion: ""
+				icon: "candlelight:hearth"
+				id: "22587127FC6B55E5"
+				title: "Breed two mobs"
+				type: "advancement"
+			}]
+			title: "Breed them all"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2E3F60CD5D62CA7C"]
+			id: "20B4B8AAC45F610C"
+			rewards: [{
+				count: 4
+				id: "78F63DB4F4AF96B0"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			shape: "octagon"
+			subtitle: "or dont"
+			tasks: [{
+				count: 8L
+				id: "4537A9032E6F786B"
+				item: { Count: 4, id: "minecraft:oak_planks" }
+				type: "item"
+			}]
+			title: "Craft planks"
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2E3F60CD5D62CA7C"]
+			id: "1F475EFA82F8A888"
+			rewards: [
+				{
+					count: 4
+					id: "4BA0E43DF595DE3A"
+					item: "bakery:grilled_bacon_sandwich"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2234A8A943C160D1"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Hunt or be hunted"
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				icon: { Count: 10, id: "minecraft:rotten_flesh" }
+				id: "02B6451DBB48DE72"
+				title: "Murder that guy"
+				type: "advancement"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2E3F60CD5D62CA7C"]
+			icon: "minecraft:wheat"
+			id: "66FE4B5B3E5C51C4"
+			rewards: [{
+				count: 10
+				id: "20B881452FF0C306"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Reject the cityboy lifestyle"
+			tasks: [{
+				count: 5L
+				id: "5287D23D8B286A3A"
+				item: { Count: 5, id: "minecraft:wheat" }
+				type: "item"
+			}]
+			title: "The farm life"
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["20B4B8AAC45F610C"]
+			id: "62B2B428FDC71783"
+			rewards: [
+				{
+					count: 16
+					id: "53263F9EC696D456"
+					item: "minecraft:oak_planks"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4FCB922FCBEC031F"
+					table_id: 2295843092532650887L
+					type: "choice"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			subtitle: "For crafting other tables"
+			tasks: [{
+				id: "35E5A95B06FD6BE5"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Craft a table"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1F475EFA82F8A888"]
+			description: ["&ovideo game sounds"]
+			id: "4F1EB7624DB9CFED"
+			rewards: [
+				{
+					id: "6879AE04A413BCC0"
+					item: {
+						Count: 1
+						id: "minecraft:bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "52801DD5C8C1C398"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+				{
+					id: "1A6B7E2BB3EC37F0"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E9876861BCA89D1"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A6E5F8B52A1DF5B"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+			]
+			subtitle: "Toe deroe toe (undertale music)"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "2E756622C75D89BB"
+				title: "Sans bossfight"
+				type: "kill"
+				value: 20L
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1F475EFA82F8A888"]
+			description: ["They're like animals, and I slaughtered them like animals. I hate them!!!"]
+			id: "508822D7FC710A8A"
+			rewards: [
+				{
+					id: "462FFF404434CCAB"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1303ADFA25FA224E"
+					item: {
+						Count: 1
+						id: "minecraft:chainmail_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "70A96A75851B13F5"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					exclude_from_claim_all: true
+					id: "525CA4153F72BA00"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+			]
+			subtitle: "kill them all. And not just the men, but the women and the children, too."
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "6C62EECE4055F2E9"
+				title: "Hunt down his whole family"
+				type: "kill"
+				value: 20L
+			}]
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["508822D7FC710A8A"]
+			description: ["Murder his stead"]
+			id: "48F89205DA8E5F9C"
+			optional: true
+			rewards: [
+				{
+					id: "3E5823C6804E9362"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+				{
+					id: "4CB30DAFA7F06B3D"
+					item: "minecraft:iron_horse_armor"
+					type: "item"
+				}
+			]
+			subtitle: "Horsing around"
+			tasks: [{
+				entity: "minecraft:zombie_horse"
+				id: "62EA0B5A74F6540E"
+				optional_task: true
+				title: "Hunt down his pet"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["508822D7FC710A8A"]
+			description: ["He was a villager.....&lUNTIL HE WASNT"]
+			id: "07269594E193E1AE"
+			optional: true
+			rewards: [
+				{
+					id: "6562D6887832F006"
+					item: "artifacts:villager_hat"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "386E4A74E16FED0E"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			subtitle: "HUH"
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				icon: "minecraft:zombie_villager_spawn_egg"
+				id: "70A9A784F3224E90"
+				title: "His cousin"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Hunt down his cousin"
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["508822D7FC710A8A"]
+			id: "56A53471A18AFC24"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "71275AF69685A032"
+					item: "createfood:pasta_plate_pork_meatballs_tomato_sauce"
+					type: "item"
+				}
+				{
+					id: "42BC65A675129673"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Miss piggy would be jealous"
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				icon: "minecraft:piglin_head"
+				id: "74871FCF6CFF5AE7"
+				title: "His secret lover"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Hunt down his secret lover"
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1F475EFA82F8A888"]
+			icon: {
+				Count: 1
+				id: "bakery:bread_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7F96FBD836BC05A0"
+			rewards: [
+				{
+					id: "15EF9B97006668FA"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4761F5D1A919FC69"
+					item: {
+						Count: 1
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5021FE0198DDFA9F"
+					item: "minecraft:armor_stand"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2DBC977C5191B4B2"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			subtitle: "Kill them all"
+			tasks: [{
+				icon: "minecraft:skeleton_skull"
+				id: "00F171A1879D8208"
+				stat: "minecraft:mob_kills"
+				title: "Monster hunter"
+				type: "stat"
+				value: 60
+			}]
+			x: -9.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7F96FBD836BC05A0"]
+			id: "7DEE6E35450B636B"
+			rewards: [
+				{
+					id: "19385C1C36FAB4A1"
+					item: "supplementaries:enderman_head"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7357296DE9195F57"
+					item: "ends_delight:end_barbecue_stick"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "25709475D95CBCAA"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+			]
+			subtitle: "End them all"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "supplementaries:enderman_head"
+				id: "7803D32DA1768DE5"
+				title: "Go to the end"
+				type: "dimension"
+			}]
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7F96FBD836BC05A0"]
+			id: "0A50710457AF882F"
+			rewards: [
+				{
+					count: 5
+					id: "187AA5230553FB24"
+					item: "minecraft:nether_wart"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "30A468BE7615561D"
+					item: "nethersdelight:nether_skewer"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A880B1FEF1D4207"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+			]
+			subtitle: "Doom slayer"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:netherrack"
+				id: "5FB94005C6F03EAA"
+				title: "Go to the nether"
+				type: "dimension"
+			}]
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2E3F60CD5D62CA7C"]
+			description: ["You feel the yearn for the mine"]
+			id: "267F42EF7AEC1ADF"
+			rewards: [{
+				count: 3
+				id: "4429ECD5FB27B5F0"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			subtitle: "The miner"
+			tasks: [{
+				id: "485DA35D09D47651"
+				item: {
+					Count: 1
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "The miner is born"
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["267F42EF7AEC1ADF"]
+			description: ["Ye have heard the call for the mine down we go !"]
+			id: "6B8552E15F035DFD"
+			rewards: [{
+				count: 3
+				id: "30E023CF31B20358"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			subtitle: "YE YEARN FOR THE MINE"
+			tasks: [{
+				id: "299FD857A8408DC8"
+				item: {
+					Count: 1
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Mining away"
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6B8552E15F035DFD"]
+			description: ["Ye have found diamonds, the yearn has been satisfied."]
+			id: "43B604F47553AC51"
+			rewards: [{
+				count: 3
+				id: "6855A829DA53C277"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "dont drop em"
+			tasks: [{
+				id: "483D33047A2B714F"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "DIAMONDS !!!"
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2E3F60CD5D62CA7C"]
+			id: "6A350C22C2A5D959"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4DEBB6A7A0D71207"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "1CD53A6CEC7B4608"
+					item: "candlelight:salad"
+					type: "item"
+				}
+			]
+			subtitle: "And walking is what theyll do"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:leather_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "39C2F5E808B3F1FE"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 2000
+			}]
+			title: "Boots are made for walking"
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A350C22C2A5D959"]
+			id: "4847408B9200603E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5EAF02D4C165FDC6"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+				{
+					count: 10
+					id: "0B16C82767959686"
+					item: "farm_and_charm:simple_tomato_soup"
+					type: "item"
+				}
+			]
+			subtitle: "No youre not"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "380384FCA617AE91"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 4000
+			}]
+			title: "Are we there yet ?"
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4847408B9200603E"]
+			icon: {
+				Count: 1
+				id: "minecraft:diamond_boots"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "50BEDB788F712E1A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "54CC71EC574B6D3E"
+					table_id: 7684478568538502549L
+					type: "random"
+				}
+				{
+					count: 10
+					id: "5EEDA3BA83EA9358"
+					item: "brewery:fried_chicken"
+					type: "item"
+				}
+			]
+			subtitle: "One does not simply walk into mordor"
+			tasks: [{
+				id: "1D82FC62A9E2C95E"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 8000
+			}]
+			title: "The long journey has begun"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A350C22C2A5D959"]
+			description: ["Oh you arent tired yet ? &lBONK&r, There you go !"]
+			id: "27CC96E055DAA642"
+			rewards: [
+				{
+					id: "346B27FEB4B9EDBC"
+					item: "supplementaries:hat_stand"
+					type: "item"
+				}
+				{
+					id: "68B78F1238317DA2"
+					item: "minecraft:lantern"
+					type: "item"
+				}
+			]
+			subtitle: "Time to go sleepy"
+			tasks: [{
+				icon: "minecraft:red_bed"
+				id: "50E95F2DCD82758B"
+				stat: "minecraft:sleep_in_bed"
+				type: "stat"
+				value: 1
+			}]
+			title: "Tired from the journey ?"
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["62B2B428FDC71783"]
+			description: ["Ready to &6experience &fall we have to offer ?"]
+			id: "04156F5B9AFC5B8F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "086A98043760BD75"
+					table_id: 327934318802252247L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D1479EFDF51271C"
+					table_id: 2000574392533299735L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D5EDAE97DB17620"
+					table_id: 7620114245498965400L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5205EB7C4DE5F924"
+					table_id: 3308997244353436509L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "742D2959F9492224"
+					table_id: 7380904193292749699L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2DDAC33EFBDF4974"
+					table_id: 7172953284114072508L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3222C6B2592FC66E"
+					table_id: 7581805558589228174L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7BF74BD700C3392D"
+					table_id: 4823914838616511729L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			size: 1.0d
+			subtitle: "Theres so much more to see"
+			tasks: [{
+				id: "1CA0A42277D19F58"
+				title: "Ready for more ?"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+	]
+	title: "The start"
+}

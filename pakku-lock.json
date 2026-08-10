@@ -571,6 +571,87 @@
             ]
         },
         {
+            "pakku_id": "FXJu5zS0VRl9hZbS",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "balm"
+            },
+            "name": {
+                "modrinth": "Balm"
+            },
+            "id": {
+                "modrinth": "MBAkmtvl"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "balm-fabric-1.20.1-7.3.42.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/cKovWgE1/balm-fabric-1.20.1-7.3.42.jar",
+                    "id": "cKovWgE1",
+                    "parent_id": "MBAkmtvl",
+                    "hashes": {
+                        "sha512": "b47e156ed0f8c36d7dd8a969f7e6ccf4f34b90ceaa3d310988d557e3d09b904e5d87842e14069262c717d774fd41fc2df9dba8fc4aa59481b198d903d0108859",
+                        "sha1": "33167e54adbefe5a2960738150dda2a9e4dd19d3"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 577633,
+                    "date_published": "2026-07-31T06:01:41.266728Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "eNdFd7m8a42D330y",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "banhammer"
+            },
+            "name": {
+                "modrinth": "BanHammer"
+            },
+            "id": {
+                "modrinth": "Wpqg0ciI"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "banhammer-0.7.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Wpqg0ciI/versions/G7qtTNmv/banhammer-0.7.1+1.20.1.jar",
+                    "id": "G7qtTNmv",
+                    "parent_id": "Wpqg0ciI",
+                    "hashes": {
+                        "sha512": "14b192fb8d4af9b84b33cb1e16dcd7f2fc33dc35d2b9d1981ba8eb03ab163a2c97902bde7c3fe73280d5dda5e289344dad0aebaef64b1be6cac1eddd95f3c9a1",
+                        "sha1": "e3370b25aba96b115c241cb350c6a84b97ae4971"
+                    },
+                    "required_dependencies": [],
+                    "size": 16426486,
+                    "date_published": "2024-01-29T21:37:45.971706Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mk3xOSzlmjqWwpn6",
             "type": "MOD",
             "side": "CLIENT",
@@ -1074,6 +1155,52 @@
                     ],
                     "size": 69675,
                     "date_published": "2024-03-04T12:26:36.150909Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ocQUD3ojuMWRJnv8",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "bluemap"
+            },
+            "name": {
+                "modrinth": "BlueMap"
+            },
+            "id": {
+                "modrinth": "swbUV1cr"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "BlueMap-5.3-fabric-1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/lHRktt6S/BlueMap-5.3-fabric-1.20.jar",
+                    "id": "lHRktt6S",
+                    "parent_id": "swbUV1cr",
+                    "hashes": {
+                        "sha512": "d3a3173cd3f6d19f5a868562d25a902a3f8936246d8a21613fe57b14497c81b989f094fa899eb6f879ffd8d0768ed354e6d8e6e6c750b4254edef8e9a2b727bc",
+                        "sha1": "4f4af6f912a89df94a4c5fbddc288ab3d17d05a1"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 4829808,
+                    "date_published": "2024-07-22T22:36:11.195177Z"
                 }
             ]
         },
@@ -3075,6 +3202,49 @@
                     ],
                     "size": 337545,
                     "date_published": "2023-07-09T08:49:42.583816Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LyZ37dtsHNzTjsk3",
+            "pakku_links": [
+                "FXJu5zS0VRl9hZbS"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "default-options"
+            },
+            "name": {
+                "modrinth": "Default Options"
+            },
+            "id": {
+                "modrinth": "WEg59z5b"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "defaultoptions-fabric-1.20.1-18.0.6.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/1nZGLni7/defaultoptions-fabric-1.20.1-18.0.6.jar",
+                    "id": "1nZGLni7",
+                    "parent_id": "WEg59z5b",
+                    "hashes": {
+                        "sha512": "43767e00bcc6bf3abf90e2036f7a97b5b9fa37671ddc78b60e28a375e46c7a5e96de6765ec3af1cd556553cad40264ad395881ea98f1b458cd7fbe1a7b92c5c9",
+                        "sha1": "a13a6d75155ac233f20e58209b5f68a290845725"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 102627,
+                    "date_published": "2026-07-24T06:52:53.698863Z"
                 }
             ]
         },
@@ -7388,6 +7558,43 @@
             ]
         },
         {
+            "pakku_id": "GSvfoKoDv0czGoHb",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "servercore"
+            },
+            "name": {
+                "modrinth": "ServerCore"
+            },
+            "id": {
+                "modrinth": "4WWQxlQP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "servercore-fabric-1.5.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/m978FuzE/servercore-fabric-1.5.2+1.20.1.jar",
+                    "id": "m978FuzE",
+                    "parent_id": "4WWQxlQP",
+                    "hashes": {
+                        "sha512": "ba0166167615d32503b39c5d0069278ce69b611354f1f73a9fc8a5f393f2df5f22cba9e9e228d9f154ac6feaea20155251bb2f73dd5ffec5bbc5fbe997842e30",
+                        "sha1": "681757921997f3ab8455a968bf77ee4f305b82ed"
+                    },
+                    "required_dependencies": [],
+                    "size": 815594,
+                    "date_published": "2024-11-22T21:48:01.880057Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ZeGZcfuML9Cxerhs",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
@@ -8423,6 +8630,43 @@
                     "required_dependencies": [],
                     "size": 1132677,
                     "date_published": "2024-05-31T10:28:22.507617Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "V1IiSjWLF89F26po",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "vmp-fabric"
+            },
+            "name": {
+                "modrinth": "Very Many Players (Fabric)"
+            },
+            "id": {
+                "modrinth": "wnEe9KBa"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+                    "id": "sV8lIBhJ",
+                    "parent_id": "wnEe9KBa",
+                    "hashes": {
+                        "sha512": "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4",
+                        "sha1": "46e896cabf7813275413c97e6dd2f48ef534057d"
+                    },
+                    "required_dependencies": [],
+                    "size": 487043,
+                    "date_published": "2023-09-16T01:42:48.311988Z"
                 }
             ]
         },

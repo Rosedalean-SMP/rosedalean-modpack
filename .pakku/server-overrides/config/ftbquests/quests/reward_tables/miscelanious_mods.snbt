@@ -1,0 +1,81 @@
+{
+	icon: "naturalist:teddy_bear"
+	id: "42F1FCFCCE7914F1"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ item: "interiors:red_chair" }
+		{ item: "railways:conductor_whistle" }
+		{ item: "create:andesite_door" }
+		{ item: "another_furniture:oak_shelf" }
+		{ item: "ecologics:coconut_sign" }
+		{ item: "handcrafted:oak_side_table" }
+		{ item: "biomesoplenty:jacaranda_sapling" }
+		{
+			item: {
+				Count: 1
+				id: "sophisticatedstorage:iron_barrel"
+				tag: {
+					woodType: "oak"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "exposure:photograph"
+				tag: {
+					photograph_frame: {
+						entities_in_frame: [{
+							distance: 3
+							id: "minecraft:player"
+							name: "Smooshy_Smoo"
+							pos: [I;
+								95
+								71
+								-389
+							]
+						}]
+						extra_data: {
+							biome: "biomesoplenty:fir_clearing"
+							day_time: 33087
+							dimension: "minecraft:overworld"
+							focal_length: 20
+							instant: 1b
+							light_level: 15
+							pitch: 10.913832f
+							pos: [
+								92.4695285661608d
+								71.0d
+								-389.51281359324497d
+							]
+							shutter_speed: "1/60"
+							structures: ["bettermineshafts:mineshaft_spruce"]
+							timestamp: 1781817063L
+							weather: "Clear"
+							yaw: -68.188416f
+						}
+						identifier: "MrPear007_6280271"
+						photographer: {
+							name: "MrPear007"
+							uuid: [I;
+								-1622646661
+								-1152497636
+								-1227991698
+								-1923348384
+							]
+						}
+						type: "black_and_white"
+					}
+					photograph_type: "black_and_white"
+				}
+			}
+		}
+		{ item: "copycats:copycat_folding_door" }
+		{ item: "mcwfurnitures:stripped_oak_chair" }
+		{ item: "immersive_paintings:painting" }
+		{ item: "naturalist:teddy_bear" }
+		{ item: "sophisticatedbackpacks:backpack" }
+	]
+	title: "Miscelanious Mods"
+}

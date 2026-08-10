@@ -1,0 +1,90 @@
+{
+	icon: {
+		Count: 1
+		id: "immersive_melodies:lute"
+		tag: { }
+	}
+	id: "638B73020A1743BC"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:ender_bass"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:lute"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:piano"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:bagpipe"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:flute"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:handpan"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:triangle"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:tiny_drum"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:didgeridoo"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:trumpet"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "immersive_melodies:vielle"
+				tag: { }
+			}
+		}
+	]
+	title: "Intsruments"
+}

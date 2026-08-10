@@ -1,0 +1,32 @@
+{
+	icon: "hybrid-aquatic:raw_shrimp"
+	id: "666E3D421267CB83"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "hybrid-aquatic:message_in_a_bottle"
+				tag: {
+					BlockEntityTag: {
+						variant: "bottle"
+					}
+				}
+			}
+		}
+		{ item: "hybrid-aquatic:tiger_shark_plushie" }
+		{ item: "hybrid-aquatic:raw_shrimp" }
+		{
+			item: {
+				Count: 1
+				id: "hybrid-aquatic:turtle_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "hybrid-aquatic:goldfish_spawn_egg" }
+	]
+	title: "Hybrid aquatic"
+}

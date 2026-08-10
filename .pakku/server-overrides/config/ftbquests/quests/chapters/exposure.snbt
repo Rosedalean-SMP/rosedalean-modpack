@@ -1,0 +1,511 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exposure"
+	group: "01BF40F95E82CB66"
+	id: "2ADF47CB62DED078"
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "exposure:photograph"
+			id: "136367760A00D0EB"
+			rewards: [{
+				id: "0DB44FCB44E90136"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [{
+				id: "774052DDE7A59A57"
+				title: "Exposure"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C84248F26B08F67"]
+			description: [
+				"With your Camera crafted and film in hand, you are ready to start shooting. Right-click with the Camera to enter the viewfinder mode, where you will see the world through the lens. The viewfinder interface shows your current settings and remaining film frames."
+				""
+				"To load film into your Camera, either sneak and right-click the Camera in your inventory to open the attachments menu, or right-click the Camera in a crafting grid with the film roll. The Camera accepts one film roll at a time, and you can see how many exposures remain through the viewfinder or item tooltip."
+				""
+				"{@pagebreak}"
+				"While looking through the viewfinder, use the left mouse button to take a photo. The Camera has a default focal range of 18-55mm, which you can extend with lens attachments. Press the middle mouse button to open viewfinder controls where you can adjust zoom, shutter speed, and other settings."
+				""
+				"The Camera supports selfie mode by pressing F5 to switch to third-person front view. In selfie mode, the camera distance defaults to 1.75 blocks, giving you a comfortable framing distance for self-portraits and group photos."
+				""
+				"{@pagebreak}"
+				"The Camera supports four attachment slots that modify its behavior and capabilities. You can access the attachments menu by sneaking and right-clicking with the Camera or by right-clicking it in your inventory. Each slot accepts specific items that enhance your photography."
+				""
+				"The Flash slot accepts a Redstone Lamp to illuminate dark scenes when taking photographs. Once attached, the flash can be set to three modes: On (always fires), Off (never fires), or Auto (fires only when light level at the Camera position is below 8). The flash illuminates a small area in front of the Camera, helping capture clear images in caves, at night, or in dark builds."
+				""
+				"{@pagebreak}"
+				"The Lens slot accepts a Spyglass to extend your Camera's focal range. The default Camera offers an 18-55mm focal range suitable for standard photography. Attaching a Spyglass changes this to a 55-200mm telephoto range, allowing you to zoom in on distant subjects like faraway builds, wildlife, or landscapes without getting close."
+				""
+				"The Filter slot accepts any Glass Pane to apply color tints to your photographs. Using stained glass panes creates stylized images with that color cast, while clear glass panes have no effect."
+				""
+				"{@pagebreak}"
+				"Red, Green, and Blue filters are particularly useful for the advanced Chromatic printing process, allowing you to capture individual color channels for later combination. The Filter slot also accepts the Interplanar Projector for importing external images into the game as photographs."
+			]
+			id: "5461D49FEBD09FAC"
+			rewards: [{
+				id: "553FE0D8D0E6CDF4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1B30AD74AB1136F1"
+				item: "exposure:camera"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7C84248F26B08F67"]
+			description: ["The classic Black and White Film produces timeless monochrome photographs with excellent contrast. Craft it using Iron Ingots, Iron Nuggets, Bone Meal, Gunpowder, and Dried Kelp. This film develops with just a Water Bottle, making it the most accessible option for beginners."]
+			id: "1930CF6C6F3F3E28"
+			rewards: [{
+				id: "0046454EF4DF649E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1E95E62ED49AC04E"
+				item: "exposure:black_and_white_film"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7C84248F26B08F67"]
+			description: ["Color Film captures the full spectrum of your Minecraft world in vibrant hues. The recipe uses Gold Ingots, Gold Nuggets, Lapis Lazuli, Gunpowder, and Dried Kelp. Developing Color Film requires a sequence of three potions: Awkward Potion, Thick Potion, and Mundane Potion in the crafting grid with the exposed film."]
+			id: "227B097A8648E2AD"
+			rewards: [{
+				id: "7E418F398973FF86"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "09D5FBAFF149255F"
+				item: "exposure:color_film"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1930CF6C6F3F3E28"]
+			description: ["Both Black and White and Color Film have High Sensitivity variants. These specialized films perform better in low-light conditions, reducing grain and noise in darker environments. High Sensitivity films are ideal for cave photography, nighttime shots, or capturing scenes in the Nether and End dimensions where lighting is limited."]
+			id: "46EEDE8CB97A1332"
+			rewards: [{
+				id: "39E8E149379E221C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2C0FC52E6AB5EF47"
+				item: "exposure:high_sensitivity_black_and_white_film"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["227B097A8648E2AD"]
+			description: ["Both Black and White and Color Film have High Sensitivity variants. These specialized films perform better in low-light conditions, reducing grain and noise in darker environments. High Sensitivity films are ideal for cave photography, nighttime shots, or capturing scenes in the Nether and End dimensions where lighting is limited."]
+			id: "5DEDB2A83AD0F065"
+			rewards: [{
+				id: "3F3FAC71A2E49B23"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1FF3498E2203E8C4"
+				item: "exposure:high_sensitivity_color_film"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"1C0BD6954927E798"
+				"25A9F4A8319B0C7E"
+			]
+			description: [
+				"Once your film roll is full or you are ready to see your photos, the Lightroom transforms exposed film into printed photographs. This workstation simulates the analog darkroom experience with an authentic printing process."
+				""
+				""
+				"{@pagebreak}"
+				"Place your developed film in the Lightroom's film slot along with Photo Paper in the paper slot. Photo Paper is simply regular Paper from vanilla Minecraft. The Lightroom requires a light level of 13 or higher to operate, so place torches, lanterns, or other light sources above the Lightroom to ensure proper illumination."
+				""
+				"Black and White photos print in 4 seconds and consume 1 Black Dye per print. Color photos take 8 seconds and require all four CMYK dyes: Cyan Dye, Magenta Dye, Yellow Dye, and Black Dye. The Lightroom awards experience points for each successful print."
+				""
+				"{@pagebreak}"
+				"For advanced photographers, the Lightroom offers a Chromatic printing mode that separates color channels into individual prints. To activate Chromatic mode, place a Tinted Glass block on top of your Lightroom. This refracts the light and enables the specialized printing process."
+				""
+				"In Chromatic mode, the Lightroom prints the Red, Green, and Blue channels separately onto Chromatic Sheets rather than final photographs. Each channel uses different dye combinations and takes 6 seconds per pass."
+				""
+				"{@pagebreak}"
+				"Once you have all three channel prints (R, G, and B), simply hold them in your inventory and they automatically combine into a finished Chromatic photograph."
+				""
+				"Chromatic printing awards 5 XP when all three channels complete successfully. This method produces the highest quality color prints but requires more resources and time investment. The process is ideal for special photographs you want to preserve at maximum quality."
+			]
+			id: "55E2D6648D16E3C6"
+			rewards: [{
+				id: "03CA4BAC01697189"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1B0E3EB656310250"
+				item: "exposure:lightroom"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["136367760A00D0EB"]
+			id: "7C84248F26B08F67"
+			rewards: [{
+				id: "0DBE2FBAE86942D5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "272C22849963664E"
+				title: "Getting started"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5461D49FEBD09FAC"]
+			description: ["ARGH MY EYES "]
+			id: "0011C015E576318A"
+			rewards: [{
+				id: "6E7CEB10E9E8402D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7BE214396244BB1E"
+				item: "minecraft:redstone_lamp"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0011C015E576318A"]
+			description: ["For some more zoom, or to get your entire forehead on one picture."]
+			id: "6A5B7ED776FF050E"
+			rewards: [{
+				id: "0620FA764D943AD6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7A52DA6D4A7E24E0"
+				item: "minecraft:spyglass"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6A5B7ED776FF050E"]
+			description: ["Use any glass panes to put a colorfull filter over your pictures"]
+			id: "0753161B959E1B62"
+			rewards: [{
+				id: "5E55848AE0DFBA40"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "62F7F11090E9F3B1"
+				item: "minecraft:blue_stained_glass_pane"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5461D49FEBD09FAC"]
+			description: [
+				"The Camera Stand transforms photography from handheld snapshots into a more controlled studio experience. This tripod-like entity holds your Camera in place, enables remote triggering, and unlocks group photo capabilities."
+				""
+				"Place the Camera Stand in the world, then right-click it while holding a Camera to mount your equipment. Once mounted, right-click the stand to enter control mode where you can aim the Camera and adjust settings. Sneak while interacting to access the Camera's attachment menu directly on the stand."
+				""
+				""
+				"{@pagebreak}"
+				"The Camera Stand has a working range of 100 blocks. If the owner moves beyond this range, the stand may malfunction and require a simple right-click interaction to repair. This range limitation ensures the Camera can properly render the scene from the player's loaded chunks."
+				""
+				"The Camera Stand supports a self-timer feature perfect for group photos and selfies without the handheld Camera. When the timer activates, it attracts the attention of nearby entities within a 16-block radius, causing mobs and animals to look toward the Camera for the perfect shot."
+				""
+				"{@pagebreak}"
+				"Camera Stands can be triggered with redstone signals, enabling automated photography setups. Connect redstone to the stand's position to trigger the shutter remotely. This opens possibilities for photo booths, security cameras, and creative automated capture systems."
+				""
+				"The stand can also ride in Boats and Minecarts, allowing mobile photography platforms. When placed in a rideable Minecart, you can create moving camera rigs for cinematic shots along rail systems."
+			]
+			id: "521AB787E3C90B6F"
+			rewards: [{
+				id: "37E0C7A551EE3155"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3620261CB7C632B8"
+				item: "exposure:camera_stand"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["136367760A00D0EB"]
+			id: "21A7C816958D44B1"
+			rewards: [{
+				id: "61AD22F5C8789FE9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "495C8BFC7934C054"
+				title: "Keeping those memories"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21A7C816958D44B1"]
+			description: [
+				"The Album provides an in-game scrapbook for collecting and organizing your photographs. Unlike loose photos scattered in chests, Albums keep your images together in a browseable format that other players can view."
+				""
+				"The Album opens a custom interface where you can insert photographs, add written notes and captions, and organize pages. Right-click while holding an Album to browse its contents."
+				""
+				"{@pagebreak}"
+				"Albums can be signed like written books, locking their contents and adding an enchantment glint to the item. Signed Albums become permanent records that cannot be modified, making them perfect for completed photo journals or gifts to other players."
+				""
+				"Place an Album on a Lectern to create a public viewing station where other players can flip through your photographs. This works identically to placing a signed book, allowing anyone nearby to enjoy your captured memories."
+			]
+			id: "10A1DEE7158B9E2C"
+			rewards: [{
+				id: "73583DD088CA7643"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "180CC8C1335CD8B4"
+				item: "exposure:album"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21A7C816958D44B1"]
+			description: [
+				"The Photograph Frame is a dedicated display block designed specifically for Exposure photos. Craft it using an Item Frame surrounded by Sticks and Wooden Planks. Place the frame on any wall, then right-click with a photograph to display it."
+				""
+				"Photograph Frames can also be placed on floors and ceilings, and come in three sizes: 1x1, 2x2, and 3x3. Apply a Glow Ink Sac to make the frame glow in the dark."
+			]
+			id: "703C1D588105BEBE"
+			rewards: [{
+				id: "150201B5DAC89A04"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "74F996FD17791172"
+				item: "exposure:photograph_frame"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["21A7C816958D44B1"]
+			description: ["The Glass Photograph Frame offers a more elegant presentation with a transparent border. Both frame types render your photographs at full resolution within a 64-block viewing distance by default."]
+			id: "7F8B955908078CE8"
+			rewards: [{
+				id: "44528840F75B6A6C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5A0E18818ECD7FA8"
+				item: "exposure:glass_photograph_frame"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["136367760A00D0EB"]
+			description: ["Life do be strange"]
+			id: "4058949BF6D5D1E8"
+			rewards: [{
+				id: "374BA24C60B6F0EB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6FC3A51A3B780E11"
+				title: "Instant camera's"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4058949BF6D5D1E8"]
+			description: [
+				"Works functionally the same as a normal camera."
+				"Except you dont have to use a fiml roll but slides."
+				"Slides dont have to be developed and are instant."
+			]
+			id: "0F0D477F94D44803"
+			rewards: [{
+				id: "27CBF9642D20A740"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "774384B666762178"
+				item: "exposure_polaroid:instant_camera"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4058949BF6D5D1E8"]
+			id: "63DCC69B20CEDDF7"
+			rewards: [{
+				id: "26E4A00620549112"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4BD080B68BB6EDF7"
+				item: "exposure_polaroid:instant_black_and_white_slide"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4058949BF6D5D1E8"]
+			id: "4DF347C15C28DEA8"
+			rewards: [{
+				id: "2ACD83BBA411BB53"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1E726151D2E00BB1"
+				item: "exposure_polaroid:instant_color_slide"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4058949BF6D5D1E8"]
+			id: "633031C378512360"
+			rewards: [{
+				id: "197CB56A33C5FA00"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1292C496111F4241"
+				item: "exposure_polaroid:high_sensitivity_instant_color_slide"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4058949BF6D5D1E8"]
+			id: "2C3A2834AA6A6696"
+			rewards: [{
+				id: "115B15C1798F5095"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "58332E097696F07C"
+				item: "exposure_polaroid:high_sensitivity_instant_black_and_white_slide"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["21A7C816958D44B1"]
+			description: [
+				"Create vintage-looking prints by crafting an Aged Photograph. Combine any photograph with Brown Dye and a Brush in a crafting grid to apply a sepia-toned weathered effect."
+				""
+				"This aged variant is perfect for historical builds, antique collections, or storytelling through weathered imagery. If you have the Supplementaries mod installed, you can also use Antique Ink instead of Brown Dye."
+			]
+			id: "01D6C2FE5E4D73F1"
+			rewards: [{
+				id: "0BF7F7E14ECF885D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "48E2B12F3B417206"
+				item: "exposure:aged_photograph"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C84248F26B08F67"]
+			description: ["Before printing, exposed film must be developed using potions in a crafting grid. Black and White Film develops with a single Water Bottle. Color Film requires the three-potion sequence: Awkward Potion, Thick Potion, and Mundane Potion crafted together with the exposed roll."]
+			id: "1C0BD6954927E798"
+			rewards: [{
+				id: "4E048CF8A096B001"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D97C72488703D4F"
+				item: "exposure:developed_black_and_white_film"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7C84248F26B08F67"]
+			description: ["Before printing, exposed film must be developed using potions in a crafting grid. Black and White Film develops with a single Water Bottle. Color Film requires the three-potion sequence: Awkward Potion, Thick Potion, and Mundane Potion crafted together with the exposed roll."]
+			id: "25A9F4A8319B0C7E"
+			rewards: [{
+				id: "4F08C8A98931B96F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4E6988C7C29E8467"
+				item: "exposure:developed_color_film"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+	title: "Exposure"
+}
