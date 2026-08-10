@@ -2160,44 +2160,6 @@
             ]
         },
         {
-            "pakku_id": "ytEaDN40MY63aQWn",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "create"
-            },
-            "name": {
-                "modrinth": "Create"
-            },
-            "id": {
-                "modrinth": "LNytGWDc"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create-1.20.1-6.0.8.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar",
-                    "id": "8amzvn9x",
-                    "parent_id": "LNytGWDc",
-                    "hashes": {
-                        "sha512": "5b51f5d31437d9bfbf221b67459abd87260d284874e1e23b7ed1d522b23a48059a3b1d2c1c541428da35dc6be15561b4f3c7f36aac6df3a0e8db6a278f6b0316",
-                        "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9"
-                    },
-                    "required_dependencies": [],
-                    "size": 19170905,
-                    "date_published": "2025-11-02T16:10:25.364809Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "6162yMZWd9F4xayw",
             "pakku_links": [
                 "HtPcmMhGsx8psbGd"
@@ -2601,9 +2563,6 @@
         },
         {
             "pakku_id": "8AWNDukIKVdaB3gA",
-            "pakku_links": [
-                "ytEaDN40MY63aQWn"
-            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -4876,7 +4835,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "geckolib"
             },
