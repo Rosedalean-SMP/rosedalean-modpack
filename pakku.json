@@ -4,7 +4,138 @@
     "projects": {
         "geckolib": {
             "side": "BOTH"
+        },
+        "emi": {
+            "side": "BOTH"
+        },
+        "anti-creeper": {
+            "side": "BOTH"
+        },
+        "audioplayer": {
+            "side": "BOTH"
+        },
+        "banhammer": {
+            "side": "BOTH"
+        },
+        "better-crafts-shulker-shell": {
+            "side": "BOTH"
+        },
+        "better-end-cities-for-betterend": {
+            "side": "BOTH"
+        },
+        "block-runner": {
+            "side": "BOTH"
+        },
+        "bluemap": {
+            "side": "BOTH"
+        },
+        "cardinal-components-api": {
+            "side": "BOTH"
+        },
+        "carpet": {
+            "side": "BOTH"
+        },
+        "configmanager": {
+            "side": "BOTH"
+        },
+        "create-compat-betterend-betternether": {
+            "side": "BOTH"
+        },
+        "create-threaded-trains": {
+            "side": "BOTH"
+        },
+        "disable-enderman-picking-up-blocks": {
+            "side": "BOTH"
+        },
+        "essential-commands": {
+            "side": "BOTH"
+        },
+        "invview": {
+            "side": "BOTH"
+        },
+        "item-obliterator": {
+            "side": "BOTH"
+        },
+        "leaves-be-gone": {
+            "side": "BOTH"
+        },
+        "ledger": {
+            "side": "BOTH"
+        },
+        "lithostitched": {
+            "side": "BOTH"
+        },
+        "luckperms": {
+            "side": "BOTH"
+        },
+        "mes-moogs-end-structures": {
+            "side": "BOTH"
+        },
+        "mns-moogs-nether-structures": {
+            "side": "BOTH"
+        },
+        "moogs-structure-lib": {
+            "side": "BOTH"
+        },
+        "morecatvariants": {
+            "side": "BOTH"
+        },
+        "players-drop-heads": {
+            "side": "BOTH"
+        },
+        "servercore": {
+            "side": "BOTH"
+        },
+        "smarter-farmers-farmers-replant": {
+            "side": "BOTH"
+        },
+        "styled-chat": {
+            "side": "BOTH"
+        },
+        "tectonic": {
+            "side": "BOTH"
+        },
+        "transferable-pets": {
+            "side": "BOTH"
+        },
+        "trims-color-splash": {
+            "side": "BOTH"
+        },
+        "vanish": {
+            "side": "BOTH"
+        },
+        "vmp-fabric": {
+            "side": "BOTH"
+        },
+        "when-dungeons-arise": {
+            "side": "BOTH"
+        },
+        "yungs-better-desert-temples": {
+            "side": "BOTH"
+        },
+        "yungs-better-dungeons": {
+            "side": "BOTH"
+        },
+        "yungs-better-end-island": {
+            "side": "BOTH"
+        },
+        "yungs-better-jungle-temples": {
+            "side": "BOTH"
+        },
+        "yungs-better-mineshafts": {
+            "side": "BOTH"
+        },
+        "yungs-better-nether-fortresses": {
+            "side": "BOTH"
+        },
+        "yungs-better-ocean-monuments": {
+            "side": "BOTH"
+        },
+        "yungs-better-strongholds": {
+            "side": "BOTH"
+        },
+        "yungs-better-witch-huts": {
+            "side": "BOTH"
         }
-    },
-    "export_server_side_projects_to_client": true
+    }
 }
