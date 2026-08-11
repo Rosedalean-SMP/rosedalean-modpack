@@ -14,9 +14,6 @@
         "audioplayer": {
             "side": "BOTH"
         },
-        "banhammer": {
-            "side": "BOTH"
-        },
         "better-crafts-shulker-shell": {
             "side": "BOTH"
         },
@@ -24,9 +21,6 @@
             "side": "BOTH"
         },
         "block-runner": {
-            "side": "BOTH"
-        },
-        "bluemap": {
             "side": "BOTH"
         },
         "cardinal-components-api": {
@@ -59,13 +53,7 @@
         "leaves-be-gone": {
             "side": "BOTH"
         },
-        "ledger": {
-            "side": "BOTH"
-        },
         "lithostitched": {
-            "side": "BOTH"
-        },
-        "luckperms": {
             "side": "BOTH"
         },
         "mes-moogs-end-structures": {
@@ -81,9 +69,6 @@
             "side": "BOTH"
         },
         "players-drop-heads": {
-            "side": "BOTH"
-        },
-        "servercore": {
             "side": "BOTH"
         },
         "smarter-farmers-farmers-replant": {
@@ -102,9 +87,6 @@
             "side": "BOTH"
         },
         "vanish": {
-            "side": "BOTH"
-        },
-        "vmp-fabric": {
             "side": "BOTH"
         },
         "when-dungeons-arise": {
