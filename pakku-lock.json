@@ -2319,49 +2319,6 @@
             ]
         },
         {
-            "pakku_id": "cQ4ZQ4ImhMnqiw9u",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "cha-s"
-            },
-            "name": {
-                "modrinth": "Craftable Horse Armour & Saddle [CHA&S]"
-            },
-            "id": {
-                "modrinth": "fExf3hZa"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "CHA-S-1.20-fabric.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fExf3hZa/versions/FGcpE2Zb/CHA-S-1.20-fabric.jar",
-                    "id": "FGcpE2Zb",
-                    "parent_id": "fExf3hZa",
-                    "hashes": {
-                        "sha512": "ebc50ff6d97340a687a213b415eb5d09699aeb3bae6008866a431685af09f49a57d0a0b85c5491f0600a8b15e5ed0c73adca8ac2cb50f6cc9d95d1d8517b4e33",
-                        "sha1": "1c16fc0f924ab5dc7faf6dde58a93d9a3db84156"
-                    },
-                    "required_dependencies": [],
-                    "size": 39196,
-                    "date_published": "2024-03-15T22:11:54.979157Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "5MQxYfZGXn4PFkUd",
             "type": "MOD",
             "side": "CLIENT",
