@@ -139,7 +139,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "anti-creeper"
             },
@@ -354,7 +354,7 @@
         {
             "pakku_id": "QBpaVpFWFVyDEgu7",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "audioplayer"
             },
@@ -388,67 +388,6 @@
                     ],
                     "size": 781487,
                     "date_published": "2025-01-02T22:22:12.037946Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "mfnaTc6CQH4uJ6xs",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "auto-fishing"
-            },
-            "name": {
-                "modrinth": "Auto Fishing +"
-            },
-            "id": {
-                "modrinth": "GaJJVZl4"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "autofish-1.1.3.jar",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GaJJVZl4/versions/VRxZn9bd/autofish-1.1.3.jar",
-                    "id": "VRxZn9bd",
-                    "parent_id": "GaJJVZl4",
-                    "hashes": {
-                        "sha512": "36dc46b01425b1bb9696f8982df5d4ff3c00e7ab666440397400869b92da2eff00454609f58382eb9f444ebb6d90fe30fc314f140d552288d9bc2cecfe307828",
-                        "sha1": "6da443d979d47c48f38d28ac5bedda989b1e9f8e"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 42105,
-                    "date_published": "2025-12-07T07:20:16.232368Z"
                 }
             ]
         },
@@ -737,7 +676,7 @@
         {
             "pakku_id": "lQgxsYofc7qmNpr7",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "better-crafts-shulker-shell"
             },
@@ -816,7 +755,7 @@
         {
             "pakku_id": "Bc0P8jTJc2Cses10",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "better-end-cities-for-betterend"
             },
@@ -1120,7 +1059,7 @@
                 "ZwJIm4s0vDz4o68r"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "block-runner"
             },
@@ -1332,7 +1271,7 @@
         {
             "pakku_id": "mZzw1AwYjKKfCiZI",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "cardinal-components-api"
             },
@@ -1371,7 +1310,7 @@
         {
             "pakku_id": "WVDNLWwjSaSVXCIJ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "carpet"
             },
@@ -1953,7 +1892,7 @@
         {
             "pakku_id": "nVKHE8RvMVdNqZgY",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "configmanager"
             },
@@ -2564,7 +2503,7 @@
         {
             "pakku_id": "8AWNDukIKVdaB3gA",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "create-compat-betterend-betternether"
             },
@@ -2845,7 +2784,7 @@
         {
             "pakku_id": "GKvx7A2atbbiL4jU",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "create-threaded-trains"
             },
@@ -3254,7 +3193,7 @@
         {
             "pakku_id": "aRbeVkw0g3UvcCq0",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "disable-enderman-picking-up-blocks"
             },
@@ -3400,7 +3339,7 @@
         {
             "pakku_id": "k5AmNBb5BvchMJyI",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "emi"
             },
@@ -3999,7 +3938,7 @@
         {
             "pakku_id": "DTL7piX1EQHByFad",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "essential-commands"
             },
@@ -5193,7 +5132,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "invview"
             },
@@ -5274,7 +5213,7 @@
         {
             "pakku_id": "bgRnwdSPy08iHn8r",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "item-obliterator"
             },
@@ -5660,7 +5599,7 @@
                 "ZwJIm4s0vDz4o68r"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "leaves-be-gone"
             },
@@ -5695,50 +5634,6 @@
                     ],
                     "size": 46694,
                     "date_published": "2023-06-28T05:09:45.146293Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "FBg2nAyGApGg9OsI",
-            "pakku_links": [
-                "sscVhAQJqsV1YuUd"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "ledger"
-            },
-            "name": {
-                "modrinth": "Ledger"
-            },
-            "id": {
-                "modrinth": "LVN9ygNV"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ledger-1.3.18.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/85vYzkP3/ledger-1.3.18.jar",
-                    "id": "85vYzkP3",
-                    "parent_id": "LVN9ygNV",
-                    "hashes": {
-                        "sha512": "ecf348e94eaac2faf926747f2b5bd466930398be22d35e11483ec3986251f91de35864a2acd7de2dbd74f4f2f6c11b1d8a240d2eab4cf93dc18245194bd70ac5",
-                        "sha1": "8f79138753048db50df7e8038101af72a45f8e3a"
-                    },
-                    "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
-                    ],
-                    "size": 20004966,
-                    "date_published": "2026-03-19T20:13:44.449737Z"
                 }
             ]
         },
@@ -5783,7 +5678,7 @@
         {
             "pakku_id": "A9kkfKwObzEg9wyZ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "lithostitched"
             },
@@ -6021,7 +5916,7 @@
                 "EqLeq5httj8vBKo5"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "mes-moogs-end-structures"
             },
@@ -6071,7 +5966,7 @@
                 "EqLeq5httj8vBKo5"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "mns-moogs-nether-structures"
             },
@@ -6254,6 +6149,43 @@
             ]
         },
         {
+            "pakku_id": "5ELDok4RnE9Q5JUk",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "mine-tracer"
+            },
+            "name": {
+                "modrinth": "MineTracer"
+            },
+            "id": {
+                "modrinth": "dAgNhrkg"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "minetracer-fabric-1.20.1-1.7.54.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/dAgNhrkg/versions/sppNAwaQ/minetracer-fabric-1.20.1-1.7.54.jar",
+                    "id": "sppNAwaQ",
+                    "parent_id": "dAgNhrkg",
+                    "hashes": {
+                        "sha512": "b5aacd87bf1ffb45dc9a4d8c8289c8dd8ffdaf86202be026f3255c7a2eed1115a69870ce5783225f9f4bdae8e821c928a6ec35b51a87a7a35cdac7e6eaaf4fb7",
+                        "sha1": "3503d84d25c76e2921b9e10a5a8881ee2df832af"
+                    },
+                    "required_dependencies": [],
+                    "size": 35072508,
+                    "date_published": "2025-11-26T12:25:51.902391Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gt7dRYgUG5ga9LFE",
             "pakku_links": [
                 "f5qqhCy827m6YDuk"
@@ -6415,7 +6347,7 @@
         {
             "pakku_id": "EqLeq5httj8vBKo5",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "moogs-structure-lib"
             },
@@ -6498,7 +6430,7 @@
         {
             "pakku_id": "wISjtAw8OHqtOidw",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "morecatvariants"
             },
@@ -7076,7 +7008,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "players-drop-heads"
             },
@@ -7673,7 +7605,7 @@
         {
             "pakku_id": "sLCVzSAWsrdpE5yJ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "smarter-farmers-farmers-replant"
             },
@@ -8103,7 +8035,7 @@
         {
             "pakku_id": "HjINvUJ92xhSOh1R",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "styled-chat"
             },
@@ -8268,7 +8200,7 @@
         {
             "pakku_id": "MSX6m34n9h1iyBcr",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "tectonic"
             },
@@ -8348,7 +8280,7 @@
         {
             "pakku_id": "85p4ptPdcufszQlg",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "transferable-pets"
             },
@@ -8387,7 +8319,7 @@
         {
             "pakku_id": "5FnUs52RERZjXjis",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "trims-color-splash"
             },
@@ -8556,7 +8488,7 @@
         {
             "pakku_id": "Itq5vUplvH2mvl39",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "vanish"
             },
@@ -8674,7 +8606,7 @@
         {
             "pakku_id": "oTHfSY1HymVT3hXR",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "when-dungeons-arise"
             },
@@ -8759,7 +8691,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-desert-temples"
             },
@@ -8805,7 +8737,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-dungeons"
             },
@@ -8852,7 +8784,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-end-island"
             },
@@ -8898,7 +8830,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-jungle-temples"
             },
@@ -8944,7 +8876,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-mineshafts"
             },
@@ -8990,7 +8922,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-nether-fortresses"
             },
@@ -9036,7 +8968,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-ocean-monuments"
             },
@@ -9078,7 +9010,7 @@
         {
             "pakku_id": "SZDLjzS8x6dWQZbA",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-strongholds"
             },
@@ -9124,7 +9056,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "yungs-better-witch-huts"
             },
