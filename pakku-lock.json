@@ -3252,46 +3252,6 @@
             ]
         },
         {
-            "pakku_id": "jiHtsk5p5wF8Jf4u",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-quartz-recipe"
-            },
-            "name": {
-                "modrinth": "Create: quartz recipe"
-            },
-            "id": {
-                "modrinth": "qnuONkMN"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "quartz-fabric-1.0.0.jar",
-                    "mc_versions": [
-                        "1.18.2",
-                        "1.19.2",
-                        "1.20.1",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qnuONkMN/versions/Eszh7hiy/quartz-fabric-1.0.0.jar",
-                    "id": "Eszh7hiy",
-                    "parent_id": "qnuONkMN",
-                    "hashes": {
-                        "sha512": "4b4fb6dd5103e4f3b6b7ae1be19e33f141b4ece669d4913f444a1d2312fc154a6b5bb3169d0ff91afa07e7a8da8d3ab2e30692935733f399b58ea056a5c43649",
-                        "sha1": "65df6f3794f3faad1e10886dd84cf9b8bb7fc3a1"
-                    },
-                    "required_dependencies": [],
-                    "size": 1261,
-                    "date_published": "2026-03-15T17:35:00.355271Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "FG0JnfLHDF9qtbAj",
             "type": "MOD",
             "side": "CLIENT",
