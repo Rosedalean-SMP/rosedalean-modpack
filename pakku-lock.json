@@ -2075,47 +2075,6 @@
             ]
         },
         {
-            "pakku_id": "nVKHE8RvMVdNqZgY",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "configmanager"
-            },
-            "name": {
-                "modrinth": "Config Manager"
-            },
-            "id": {
-                "modrinth": "jlNms3Jp"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ConfigManager-fabric-1.20.1-1.20.4-1.1.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jlNms3Jp/versions/cfpIbREF/ConfigManager-fabric-1.20.1-1.20.4-1.1.1.jar",
-                    "id": "cfpIbREF",
-                    "parent_id": "jlNms3Jp",
-                    "hashes": {
-                        "sha512": "0c56327762a7bc89321718ca474d734ec4fce0f872352972a26e36f21903f3c93cd2d35d69afb20b3803cdc3c1be79a5a3bd8f712d487cbafc9b8c4def4c3672",
-                        "sha1": "1e9a7217b2beb2828a2e076b71f0ed319f61831f"
-                    },
-                    "required_dependencies": [],
-                    "size": 87734,
-                    "date_published": "2026-01-20T15:05:19.306559Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "49O6ec8FZf5bPVex",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
