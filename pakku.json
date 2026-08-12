@@ -26,9 +26,6 @@
         "carpet": {
             "side": "BOTH"
         },
-        "configmanager": {
-            "side": "BOTH"
-        },
         "create-threaded-trains": {
             "side": "BOTH"
         },

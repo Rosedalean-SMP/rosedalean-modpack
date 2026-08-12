@@ -9752,46 +9752,6 @@
             ]
         },
         {
-            "pakku_id": "V0KbQDI7PGIAptBe",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "do-api"
-            },
-            "name": {
-                "modrinth": "[Let's Do] API"
-            },
-            "id": {
-                "modrinth": "4XJZeZbM"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "letsdo-API-fabric-1.2.14-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/UXpmGhse/letsdo-API-fabric-1.2.14-fabric.jar",
-                    "id": "UXpmGhse",
-                    "parent_id": "4XJZeZbM",
-                    "hashes": {
-                        "sha512": "12ba0eace23ddc2512ee35e5eaeab9b1fddd04589740542c72d4c65114fffc400bbcaad3fa3f990730b6e7c4ff31a8e2f6e37966c22bdc84e9c1355912c2d8c4",
-                        "sha1": "047bc030f4e0ae40b1439fb33a852e44fbdcb505"
-                    },
-                    "required_dependencies": [
-                        "lhGA9TYQ"
-                    ],
-                    "size": 1702807,
-                    "date_published": "2024-06-24T09:51:32.639277Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "8NuhTTLFuXbBclqz",
             "pakku_links": [
                 "ai7oX1IrfU5qtzTN",
