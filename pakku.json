@@ -14,9 +14,6 @@
         "audioplayer": {
             "side": "BOTH"
         },
-        "better-crafts-shulker-shell": {
-            "side": "BOTH"
-        },
         "better-end-cities-for-betterend": {
             "side": "BOTH"
         },
@@ -30,9 +27,6 @@
             "side": "BOTH"
         },
         "configmanager": {
-            "side": "BOTH"
-        },
-        "create-compat-betterend-betternether": {
             "side": "BOTH"
         },
         "create-threaded-trains": {

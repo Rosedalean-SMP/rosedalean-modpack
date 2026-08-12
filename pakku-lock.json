@@ -2730,47 +2730,6 @@
             ]
         },
         {
-            "pakku_id": "8AWNDukIKVdaB3gA",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-compat-betterend-betternether"
-            },
-            "name": {
-                "modrinth": "Create: Compat BetterEnd & BetterNether"
-            },
-            "id": {
-                "modrinth": "tcb6Gs0z"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create-compat-betterend-betternether-1.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/tcb6Gs0z/versions/y0pPydmm/create-compat-betterend-betternether-1.1.jar",
-                    "id": "y0pPydmm",
-                    "parent_id": "tcb6Gs0z",
-                    "hashes": {
-                        "sha512": "5f6b4ad3ddf085a46618cee8f61eb102e66f15d1bbcd5f5f5e161771b65a2217d12c9062a9aa58382f23cb41a3aa6c19dc32d41f62541b8216ea81d43a611449",
-                        "sha1": "5c99aff50cb3ce8e23b0b5bfe7d6bcf7a3b0d407"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 283001,
-                    "date_published": "2024-07-30T16:37:25.836792Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "fet8S8K820ZMZRGl",
             "type": "MOD",
             "side": "BOTH",
@@ -3085,47 +3044,6 @@
                     ],
                     "size": 279199,
                     "date_published": "2026-04-12T21:08:17.321879Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "TrX6upvobmlsYcpf",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-ultimate-factory"
-            },
-            "name": {
-                "modrinth": "Create: Ultimate Factory"
-            },
-            "id": {
-                "modrinth": "N9QToVpw"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
-                    "id": "rqKE4xS1",
-                    "parent_id": "N9QToVpw",
-                    "hashes": {
-                        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8",
-                        "sha1": "f1821ea3471db0c94c80a0d485e6dcbe11a6407c"
-                    },
-                    "required_dependencies": [
-                        "Xbc0uyRg"
-                    ],
-                    "size": 227202,
-                    "date_published": "2025-05-29T07:13:10.596789Z"
                 }
             ]
         },
