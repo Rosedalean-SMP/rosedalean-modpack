@@ -6985,52 +6985,6 @@
             ]
         },
         {
-            "pakku_id": "1cpOyFuAkxc9EiX2",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "nether-quartz-recipe"
-            },
-            "name": {
-                "modrinth": "Nether Quartz Recipe"
-            },
-            "id": {
-                "modrinth": "Zdw3czQu"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "nether-quartz-recipe-1.0.jar",
-                    "mc_versions": [
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Zdw3czQu/versions/9OFNn3kI/nether-quartz-recipe-1.0.jar",
-                    "id": "9OFNn3kI",
-                    "parent_id": "Zdw3czQu",
-                    "hashes": {
-                        "sha512": "1d5d54cec86f2599f7b9015cf97852f0baae9f26f24a1f78407fe2c8d56a5bf12d46499400743a9d9e53ffd9fb94528785dd7cb99f6f2c3ac1b858c4b24d8885",
-                        "sha1": "b52c815b947b169e1c53c8e5874ea6d07d592dd5"
-                    },
-                    "required_dependencies": [],
-                    "size": 3093,
-                    "date_published": "2026-06-09T16:37:57.690795Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "utJJyDxWsppRSUMi",
             "type": "MOD",
             "side": "SERVER",
