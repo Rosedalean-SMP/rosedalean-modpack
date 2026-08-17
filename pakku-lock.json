@@ -6277,43 +6277,6 @@
             ]
         },
         {
-            "pakku_id": "5ELDok4RnE9Q5JUk",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "mine-tracer"
-            },
-            "name": {
-                "modrinth": "MineTracer"
-            },
-            "id": {
-                "modrinth": "dAgNhrkg"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "minetracer-fabric-1.20.1-1.7.54.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dAgNhrkg/versions/sppNAwaQ/minetracer-fabric-1.20.1-1.7.54.jar",
-                    "id": "sppNAwaQ",
-                    "parent_id": "dAgNhrkg",
-                    "hashes": {
-                        "sha512": "b5aacd87bf1ffb45dc9a4d8c8289c8dd8ffdaf86202be026f3255c7a2eed1115a69870ce5783225f9f4bdae8e821c928a6ec35b51a87a7a35cdac7e6eaaf4fb7",
-                        "sha1": "3503d84d25c76e2921b9e10a5a8881ee2df832af"
-                    },
-                    "required_dependencies": [],
-                    "size": 35072508,
-                    "date_published": "2025-11-26T12:25:51.902391Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "gt7dRYgUG5ga9LFE",
             "pakku_links": [
                 "f5qqhCy827m6YDuk"
