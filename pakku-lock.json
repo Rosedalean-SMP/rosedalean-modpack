@@ -430,43 +430,6 @@
             ]
         },
         {
-            "pakku_id": "IjAP3FsrSL7f6NGa",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "autocrafter-early"
-            },
-            "name": {
-                "modrinth": "Autocrafter Early"
-            },
-            "id": {
-                "modrinth": "pAONjoSH"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "crafter-1.0.2-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pAONjoSH/versions/213IPd8u/crafter-1.0.2-1.20.1.jar",
-                    "id": "213IPd8u",
-                    "parent_id": "pAONjoSH",
-                    "hashes": {
-                        "sha512": "57af47847f15746521084759e02a3888da137511652793507fc7b70d41e05ac72d6cc7cbdf6f88d934649e37cee31f139c76219d6786fc2df449fce842ebf917",
-                        "sha1": "e727fadd24197b80baedd7754a7e7dc46c7cca09"
-                    },
-                    "required_dependencies": [],
-                    "size": 115826,
-                    "date_published": "2024-05-04T18:28:19.775815Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "SeaZvKnTylZcKHuF",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
@@ -5094,43 +5057,6 @@
             ]
         },
         {
-            "pakku_id": "gsy4n9jdLby9Uiok",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "happy-ghast-legacy"
-            },
-            "name": {
-                "modrinth": "Happy Ghast Legacy"
-            },
-            "id": {
-                "modrinth": "zi5opIfD"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "happy_ghast_legacy-1.8-1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zi5opIfD/versions/y45RSDFX/happy_ghast_legacy-1.8-1.20.1-fabric.jar",
-                    "id": "y45RSDFX",
-                    "parent_id": "zi5opIfD",
-                    "hashes": {
-                        "sha512": "b11207f589ef4e7712a1fb235cc146dd9c984b61a07788a4b1d3554b30e8f80ecbceef7b6809caad0541faecbedd7e2697665ed8f5eeb1b215d8eda0c890dd2c",
-                        "sha1": "bc2278cadcded98c8efea813b34d2ae9cde57d7c"
-                    },
-                    "required_dependencies": [],
-                    "size": 3221799,
-                    "date_published": "2025-06-27T02:12:00.427745Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Y2qC9NwajoqW6Ikt",
             "type": "MOD",
             "side": "BOTH",
@@ -7246,6 +7172,48 @@
             ]
         },
         {
+            "pakku_id": "GnNZMUsbc5yxpb6W",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "platform"
+            },
+            "name": {
+                "modrinth": "Platform"
+            },
+            "id": {
+                "modrinth": "i6fiqm5y"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Platform-fabric-1.20.1-1.3.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/kM9ocKlu/Platform-fabric-1.20.1-1.3.4.jar",
+                    "id": "kM9ocKlu",
+                    "parent_id": "i6fiqm5y",
+                    "hashes": {
+                        "sha512": "735e4da075d209c1d9406b36683ab6b85f0068db8b3c587112073017784f1ee81f1b8a7bac508f4ef28a08991d495aa90696cab466d8ec2adf552ca2d70bc6af",
+                        "sha1": "1a8c0a12b7f86a3d0138950dc00e3308916aeec5"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 940111,
+                    "date_published": "2026-06-08T06:02:42.291492Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "X0vuOrtSVauz8Wlm",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
@@ -8969,6 +8937,48 @@
                     ],
                     "size": 80819,
                     "date_published": "2023-08-11T23:07:08.822314Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uYiZcXpHM9GusrcV",
+            "pakku_links": [
+                "GnNZMUsbc5yxpb6W"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "vanillabackport"
+            },
+            "name": {
+                "modrinth": "Vanilla Backport"
+            },
+            "id": {
+                "modrinth": "6xwxDTgf"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "VanillaBackport-fabric-1.20.1-1.1.7.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/KbcStX3T/VanillaBackport-fabric-1.20.1-1.1.7.10.jar",
+                    "id": "KbcStX3T",
+                    "parent_id": "6xwxDTgf",
+                    "hashes": {
+                        "sha512": "c5a6cf68f5c185cbe72c3f5c7cbff996f90482c0573391c97f630a0707cb24eb9000c780d6bcf97adf92aaf4617be21e757b8db2614715450243f00aff4c6e03",
+                        "sha1": "9a70e096672b6cd99aa5b56088228d73d2061cc6"
+                    },
+                    "required_dependencies": [
+                        "i6fiqm5y"
+                    ],
+                    "size": 56067451,
+                    "date_published": "2026-06-11T02:55:15.040921Z"
                 }
             ]
         },
