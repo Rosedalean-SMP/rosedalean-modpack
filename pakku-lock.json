@@ -2243,6 +2243,50 @@
             ]
         },
         {
+            "pakku_id": "pIO2G9TkYGmBICO2",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "craterlib"
+            },
+            "name": {
+                "modrinth": "CraterLib"
+            },
+            "id": {
+                "modrinth": "Nn8Wasaq"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CraterLib-Fabric-1.20-3.1.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/QNenSECF/CraterLib-Fabric-1.20-3.1.2.jar",
+                    "id": "QNenSECF",
+                    "parent_id": "Nn8Wasaq",
+                    "hashes": {
+                        "sha512": "08056d2b10adeaa0fcaf88b212184f8fc2254e06f6a84cc5a34b2ad340fcc95709c75c76f8debf0a0f29eee240292d0e18fa667fdd8aeb9745bf47c1d7b307e9",
+                        "sha1": "d611d23340332af30f57f7b427a3fb702a9ccd6c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1485893,
+                    "date_published": "2026-05-20T09:02:31.998097Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6162yMZWd9F4xayw",
             "pakku_links": [
                 "HtPcmMhGsx8psbGd"
@@ -7847,6 +7891,129 @@
                     "required_dependencies": [],
                     "size": 32094,
                     "date_published": "2023-11-28T01:14:28.186667Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0mKNNOFYDKlLqFAa",
+            "pakku_links": [
+                "pIO2G9TkYGmBICO2"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "sdlink"
+            },
+            "name": {
+                "modrinth": "Simple Discord Link"
+            },
+            "id": {
+                "modrinth": "Sh0YauEf"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "SimpleDiscordLink-Universal-3.4.4.jar",
+                    "mc_versions": [
+                        "1.18.2",
+                        "1.19.2",
+                        "1.20",
+                        "1.20.1",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Sh0YauEf/versions/w2ngBoyZ/SimpleDiscordLink-Universal-3.4.4.jar",
+                    "id": "w2ngBoyZ",
+                    "parent_id": "Sh0YauEf",
+                    "hashes": {
+                        "sha512": "9363675647582e83234706efa8e53a0b192cad819fc9b0f546cc24a08290d2c510fb70011110220d0cf5654aa32c9d2cda1a5e73e2e3acee6d863d5345dcfe43",
+                        "sha1": "6b66365c080df2d82f53f97ac0301305e92d1245"
+                    },
+                    "required_dependencies": [
+                        "Nn8Wasaq"
+                    ],
+                    "size": 10071053,
+                    "date_published": "2026-07-15T11:28:47.168491Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gOixkuetRhFx15h6",
+            "pakku_links": [
+                "pIO2G9TkYGmBICO2"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "simple-discord-rpc"
+            },
+            "name": {
+                "modrinth": "Simple Discord RPC"
+            },
+            "id": {
+                "modrinth": "ObXSoyrn"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "SimpleRPC-4.1.4.jar",
+                    "mc_versions": [
+                        "1.18.2",
+                        "1.19.2",
+                        "1.20",
+                        "1.20.1",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ObXSoyrn/versions/g6OmXHMq/SimpleRPC-4.1.4.jar",
+                    "id": "g6OmXHMq",
+                    "parent_id": "ObXSoyrn",
+                    "hashes": {
+                        "sha512": "4f6fe672a65591a246370140893f5b8acd291865f735870a4fb71fd33e51d7169514177c7bbcd95d1d401d44bf320b49fc8cde3ab603a873c3b238949ae6cf40",
+                        "sha1": "fe7e47214681cd724c4b8b346bb0aa11bea4e9c7"
+                    },
+                    "required_dependencies": [
+                        "Nn8Wasaq"
+                    ],
+                    "size": 716599,
+                    "date_published": "2026-07-22T19:43:15.034284Z"
                 }
             ]
         },
