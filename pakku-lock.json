@@ -6259,50 +6259,6 @@
             ]
         },
         {
-            "pakku_id": "TKgRhkJr48LMFFke",
-            "pakku_links": [
-                "sscVhAQJqsV1YuUd"
-            ],
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "mc2discord"
-            },
-            "name": {
-                "modrinth": "Mc2Discord"
-            },
-            "id": {
-                "modrinth": "Cfbcv7uF"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "mc2discord-fabric-1.20.1-4.2.4.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Cfbcv7uF/versions/aInmqdKM/mc2discord-fabric-1.20.1-4.2.4.jar",
-                    "id": "aInmqdKM",
-                    "parent_id": "Cfbcv7uF",
-                    "hashes": {
-                        "sha512": "747fd6148378e618476c2a22925ec5109f2108841aae73624ecc289c0d76390b820a7a1bfd4ba1873eca3456f0fc059299ab89c555e44eef0de7d177281b7cf4",
-                        "sha1": "37975b8b73c49675e8fc4cae1b5d736b7a7fd14f"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 18219962,
-                    "date_published": "2024-06-01T10:55:32.136104Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "icRKKAIk3qe9g1DU",
             "type": "MOD",
             "side": "BOTH",
