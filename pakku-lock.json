@@ -2409,43 +2409,6 @@
             ]
         },
         {
-            "pakku_id": "5oJsvu4pW7jg0KiR",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-enchantment-industry-fabric-(create-6)"
-            },
-            "name": {
-                "modrinth": "Create Enchantment Industry for Create 6"
-            },
-            "id": {
-                "modrinth": "Bk7SxCpB"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create_enchantment_industry-1.8.3.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Bk7SxCpB/versions/cNCa8TKa/create_enchantment_industry-1.8.3.jar",
-                    "id": "cNCa8TKa",
-                    "parent_id": "Bk7SxCpB",
-                    "hashes": {
-                        "sha512": "58c2bc9c318f4d90b25668b296b1f565262653a7c96e02ef8066e62951523343d917217039b8cb2b989252e7cde36b585867ef98ff7f0cfeb8e315ecf3a08514",
-                        "sha1": "71113f1a669e22d00f3a9b9b708701008e8ba141"
-                    },
-                    "required_dependencies": [],
-                    "size": 524008,
-                    "date_published": "2026-04-12T23:21:44.266302Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "YVisKdMgdqvceVbs",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
@@ -2727,6 +2690,96 @@
                     ],
                     "size": 1996934,
                     "date_published": "2026-02-16T17:37:43.286295Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "eTY8FrFNeXqrm0hT",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd",
+                "YVisKdMgdqvceVbs"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-dragons-plus"
+            },
+            "name": {
+                "modrinth": "Create: Dragons Plus"
+            },
+            "id": {
+                "modrinth": "dzb1a5WV"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create-dragons-plus-fabric-1.20.1-1.11.7-f.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/keRSbPUW/create-dragons-plus-fabric-1.20.1-1.11.7-f.jar",
+                    "id": "keRSbPUW",
+                    "parent_id": "dzb1a5WV",
+                    "hashes": {
+                        "sha512": "e0de076e6882a852d5efa031716c75c042e01ffbcdd049215b7ab8ac195d9f1e61f80037bafdc18ff7885a0e2e8fceb055e0313a9019007dc3a7abbbe89becd4",
+                        "sha1": "e8d8a2e6af59bca0a8fbfea01de71d112831a008"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Xbc0uyRg"
+                    ],
+                    "size": 771000,
+                    "date_published": "2026-08-17T01:21:53.072774Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "x0gnjqJYyE7o5EbD",
+            "pakku_links": [
+                "YVisKdMgdqvceVbs",
+                "sscVhAQJqsV1YuUd",
+                "eTY8FrFNeXqrm0hT"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-enchantment-industry"
+            },
+            "name": {
+                "modrinth": "Create: Enchantment Industry"
+            },
+            "id": {
+                "modrinth": "JWGBpFUP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create-enchantment-industry-fabric-1.20.1-2.5.2-e.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/jJ3Necmv/create-enchantment-industry-fabric-1.20.1-2.5.2-e.jar",
+                    "id": "jJ3Necmv",
+                    "parent_id": "JWGBpFUP",
+                    "hashes": {
+                        "sha512": "058857bba017ec078c01f043bcb708a574ba109b8f8424da0ea32fd0ce614da6ded4008e29dd49fa22d29f8a27908706e4b12799f4fc756f5ce4032190345679",
+                        "sha1": "498468a6454d7371f03c7b922f5851ac6d605b61"
+                    },
+                    "required_dependencies": [
+                        "Xbc0uyRg",
+                        "P7dR8mSH",
+                        "dzb1a5WV"
+                    ],
+                    "size": 1686016,
+                    "date_published": "2026-08-20T01:31:27.057776Z"
                 }
             ]
         },
