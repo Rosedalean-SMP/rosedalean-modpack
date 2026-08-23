@@ -88,6 +88,50 @@
             ]
         },
         {
+            "pakku_id": "N5NhpOe86u1VWWKS",
+            "pakku_links": [
+                "aEw1pnCK67KumHLV",
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "amendments"
+            },
+            "name": {
+                "modrinth": "Amendments"
+            },
+            "id": {
+                "modrinth": "6iTJugQR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "amendments-1.20-2.2.6-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/Rk9Vg3PM/amendments-1.20-2.2.6-fabric.jar",
+                    "id": "Rk9Vg3PM",
+                    "parent_id": "6iTJugQR",
+                    "hashes": {
+                        "sha512": "36f70d5812d878c7857d648de404f09493f7596a1b2f532f3b04166f607aea01723ccb268729671411c6b02eb86773cb1400c603d67f1ae1cb02444b1e607041",
+                        "sha1": "b4a296ab4ac87b00b9dbb530b4514b642be22335"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc",
+                        "P7dR8mSH"
+                    ],
+                    "size": 1281333,
+                    "date_published": "2026-08-15T21:11:07.751106Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pGLM3ZSn5n8But0L",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
