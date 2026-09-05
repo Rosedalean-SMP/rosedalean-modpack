@@ -135,16 +135,6 @@ ServerEvents.recipes(event => {
     );
     addRecipe(
         'crushing',
-        'limestone',
-        [{ item: 'create:limestone' }],
-        [
-            { item: 'minecraft:quartz', chance: 0.125 },
-            { item: 'minecraft:lapis_lazuli', chance: 0.08 }
-        ],
-        { processingTime: 250 }
-    );
-    addRecipe(
-        'crushing',
         'nether_bricks',
         [{ item: 'minecraft:nether_bricks' }],
         [
