@@ -2536,6 +2536,50 @@
             ]
         },
         {
+            "pakku_id": "R6BtqCjPI08cOL5B",
+            "pakku_links": [
+                "ai7oX1IrfU5qtzTN",
+                "YVisKdMgdqvceVbs"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-missiles"
+            },
+            "name": {
+                "modrinth": "Create Missiles"
+            },
+            "id": {
+                "modrinth": "8dmJJTC3"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "createmissiles-1.0.1+fabric-1.20.1-build.643.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8dmJJTC3/versions/yYtfAJmX/createmissiles-1.0.1+fabric-1.20.1-build.643.jar",
+                    "id": "yYtfAJmX",
+                    "parent_id": "8dmJJTC3",
+                    "hashes": {
+                        "sha512": "048ceac91ae16c96fa6a4f53e0f4cda83875bb0192f9b09c999a7342b066156eca4f4ab56532e2bdf2b360c747f0531d3887a12c529921d089665a4794d1fd6f",
+                        "sha1": "e6f44367b2c6e722b09f37dfcb047a6b1df07166"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "Xbc0uyRg"
+                    ],
+                    "size": 2876974,
+                    "date_published": "2025-11-03T18:35:22.472143Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tmFjrO4zsmUQh860",
             "type": "MOD",
             "side": "BOTH",
