@@ -7766,6 +7766,47 @@
             ]
         },
         {
+            "pakku_id": "TXoO6kMw2qTiNjYp",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "record-vault"
+            },
+            "name": {
+                "modrinth": "Ronco Record Vault"
+            },
+            "id": {
+                "modrinth": "4ov3X85M"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "record-vault-0.1.1-1-dc4631dd-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4ov3X85M/versions/OvbPErI0/record-vault-0.1.1-1-dc4631dd-1.20.1.jar",
+                    "id": "OvbPErI0",
+                    "parent_id": "4ov3X85M",
+                    "hashes": {
+                        "sha512": "7f44a60601014e16d19e69562a8ceb43ee8289a9bd1ddff3aef2bdaaca430926ad1db495b1a66d0342f6f8a51bf8285d17f8ebd3c832946a95248c3da7936793",
+                        "sha1": "18e2f70ae87b31b6b7e646c8740e90b4e5ac404e"
+                    },
+                    "required_dependencies": [],
+                    "size": 22208,
+                    "date_published": "2024-04-23T18:15:49.489229Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4MG0LIDCGvY0NQ8z",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
