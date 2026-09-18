@@ -2202,6 +2202,52 @@
             ]
         },
         {
+            "pakku_id": "sw25agYE0hIwNnGG",
+            "pakku_links": [
+                "qsmShYrjtTeOpAYX",
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "cosmetic-armor"
+            },
+            "name": {
+                "modrinth": "Cosmetic Armor"
+            },
+            "id": {
+                "modrinth": "JrIYhb1P"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CosmeticArmor-1.20-1.6.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/wPdj2uLD/CosmeticArmor-1.20-1.6.0.jar",
+                    "id": "wPdj2uLD",
+                    "parent_id": "JrIYhb1P",
+                    "hashes": {
+                        "sha512": "426792cb538e73962374f638cee3182fa1c3e28acbdc5a61b534ee70149ffc955db652c820caf4fc4a27acd980f522e419f5f580c55683d985723a314caf2c96",
+                        "sha1": "6adc25ad26e9c0641bf48fb67eb8d05dae2911b1"
+                    },
+                    "required_dependencies": [
+                        "5aaWibi9",
+                        "P7dR8mSH"
+                    ],
+                    "size": 20221,
+                    "date_published": "2023-07-16T01:03:42.661375Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5MQxYfZGXn4PFkUd",
             "type": "MOD",
             "side": "CLIENT",
@@ -5269,6 +5315,48 @@
                     "required_dependencies": [],
                     "size": 3382958,
                     "date_published": "2025-12-25T00:12:48.887003Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8hxgqjQJksjG9C10",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "immersive-armors"
+            },
+            "name": {
+                "modrinth": "Immersive Armors"
+            },
+            "id": {
+                "modrinth": "eE2Db4YU"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_armors-1.7.2+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/mGE2GYeN/immersive_armors-1.7.2+1.20.1-fabric.jar",
+                    "id": "mGE2GYeN",
+                    "parent_id": "eE2Db4YU",
+                    "hashes": {
+                        "sha512": "c8286afa580d8f04b74551ceaae8409bc51478475f5846876b1be886223fe552d178c6f0e6df52e5099affd9ff2c904e07d50e12d119032ea88af49bccd046dc",
+                        "sha1": "116a8de6558c0e3002dbbcd6b9ce62016083a01c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1252761,
+                    "date_published": "2026-05-12T07:36:36.027241Z"
                 }
             ]
         },
