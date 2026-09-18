@@ -2623,45 +2623,6 @@
             ]
         },
         {
-            "pakku_id": "8xN853mZyYEQsH6w",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-broken-bad-fabric"
-            },
-            "name": {
-                "modrinth": "Create: Broken Bad ReBroken"
-            },
-            "id": {
-                "modrinth": "uIfluo9C"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "createbb1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/uIfluo9C/versions/5Ibh9a9W/createbb1.20.1.jar",
-                    "id": "5Ibh9a9W",
-                    "parent_id": "uIfluo9C",
-                    "hashes": {
-                        "sha512": "ae80bbc4a7a72e0e268f83a2b19819ce15a348c238ef0af046b34eb3f52efbeba5bc1a775b184f7a9b788ee403cb8254a76a49431d8ea905c1169ab46f41f7cf",
-                        "sha1": "32ed4be993f58e1ae7aa27a0c30efc315fb2a7d6"
-                    },
-                    "required_dependencies": [
-                        "Xbc0uyRg"
-                    ],
-                    "size": 158751,
-                    "date_published": "2024-11-05T17:35:35.022456Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ggQ5L19DXIq4hbsl",
             "type": "MOD",
             "side": "BOTH",
