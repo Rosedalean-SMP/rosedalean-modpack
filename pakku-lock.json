@@ -7704,7 +7704,7 @@
             ]
         },
         {
-            "pakku_id": "kf0j3mhLZu7vzIAG",
+            "pakku_id": "RvU6cn8id1VSL6qg",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7719,24 +7719,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "plushie_friends-0.5.3+1.20.1-fabric.jar",
+                    "file_name": "plushie_friends-1.0.0+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/XVMtZQeu/plushie_friends-0.5.3+1.20.1-fabric.jar",
-                    "id": "XVMtZQeu",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/4elN3I0W/plushie_friends-1.0.0+1.20.1-fabric.jar",
+                    "id": "4elN3I0W",
                     "parent_id": "dcPq78Za",
                     "hashes": {
-                        "sha512": "0083c70f1e04e977f1e29f951d9831155d683cb7fa478a674b05dd1048771a881905e5231690e9cd3b94a7c422ad0c98bf4595f14722f2f2b47fb8aaae98be0f",
-                        "sha1": "313b16cd57f1d021dd42361152bc85033f2581ac"
+                        "sha512": "b4a716cf9bbf711b44eaffbd837ea0675c87c6ba96cdf94c2fc797be741eea44b914687cf707d50eefb7fa0e908e5a68b0894c1e0d8df452cc2991f7d32e0324",
+                        "sha1": "39ff62e951aacf22d8761b4be354bce36faf5dea"
                     },
                     "required_dependencies": [],
-                    "size": 296102,
-                    "date_published": "2026-08-05T01:19:08.056349Z"
+                    "size": 296321,
+                    "date_published": "2026-08-09T23:14:57.194994Z"
                 }
             ]
         },
