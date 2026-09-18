@@ -3198,6 +3198,48 @@
             ]
         },
         {
+            "pakku_id": "656n7n4g3RaPcn47",
+            "pakku_links": [
+                "YVisKdMgdqvceVbs"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-vibrant-vaults"
+            },
+            "name": {
+                "modrinth": "Create: Vibrant Vaults"
+            },
+            "id": {
+                "modrinth": "hddN8ksR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create_vibrant_vaults-0.3.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hddN8ksR/versions/jbFa5B0g/create_vibrant_vaults-0.3.2+1.20.1.jar",
+                    "id": "jbFa5B0g",
+                    "parent_id": "hddN8ksR",
+                    "hashes": {
+                        "sha512": "a5e28d99dff7cdc20bc3abadd408b4eb08796b8672ae5631a51910b858e445ca9e783b8cd419cc7582bd5e781432ff695696807f9be69365e74f8137743a52b4",
+                        "sha1": "3c7e66ea9636ef1fade5179fe8a7f86e5e90e034"
+                    },
+                    "required_dependencies": [
+                        "Xbc0uyRg"
+                    ],
+                    "size": 2519984,
+                    "date_published": "2026-01-29T17:32:34.417452Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FG0JnfLHDF9qtbAj",
             "type": "MOD",
             "side": "CLIENT",
@@ -5734,6 +5776,43 @@
             ]
         },
         {
+            "pakku_id": "djd8utGNvJ5jOPWx",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "keep-the-resourcepack"
+            },
+            "name": {
+                "modrinth": "Keep The ResourcePack"
+            },
+            "id": {
+                "modrinth": "rsRuYhVp"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "KeepTheResourcePack-1.20.1-1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/rsRuYhVp/versions/z2N9z0NG/KeepTheResourcePack-1.20.1-1.0.jar",
+                    "id": "z2N9z0NG",
+                    "parent_id": "rsRuYhVp",
+                    "hashes": {
+                        "sha512": "c22239719bbf18c212b63fba58f401cd847551d9202f07944bca4b3ae47ae7415882ff5fd987e058d5eeca825da1d567da8df63f1bdc24d1be5ee026c1b3a0bd",
+                        "sha1": "6818e9fe593773f460bbb19bfb46e2c5e0777de8"
+                    },
+                    "required_dependencies": [],
+                    "size": 8449,
+                    "date_published": "2024-03-13T08:02:29.095337Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xNj7CyvhBr6ceQx0",
             "type": "MOD",
             "side": "BOTH",
@@ -7314,6 +7393,62 @@
                     ],
                     "size": 148084,
                     "date_published": "2026-02-05T20:24:42.270185Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "taSbGIfdJvkT7th4",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "pehkui"
+            },
+            "name": {
+                "modrinth": "Pehkui"
+            },
+            "id": {
+                "modrinth": "t5W7Jfwy"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Pehkui-3.8.3+1.14.4-1.21.jar",
+                    "mc_versions": [
+                        "1.14.4",
+                        "1.15.2",
+                        "1.16.5",
+                        "1.17.1",
+                        "1.18.2",
+                        "1.19.2",
+                        "1.19.4",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.4",
+                        "1.20.6",
+                        "1.21-rc1",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3+1.14.4-1.21.jar",
+                    "id": "6fzxx6SC",
+                    "parent_id": "t5W7Jfwy",
+                    "hashes": {
+                        "sha512": "5eb721d7e0e6889857a81f340451c9a98f8dcddca67dd919f9e69691cadf44b5f001e3c71db69f6b98d5d8709db739ad7b91dc71bd35880a0e6241b723822f1f",
+                        "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 555041,
+                    "date_published": "2024-06-11T20:50:26.751087Z"
                 }
             ]
         },
