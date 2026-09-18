@@ -9060,6 +9060,48 @@
             ]
         },
         {
+            "pakku_id": "kmddDguo3W7PZ7wX",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "syrup-library"
+            },
+            "name": {
+                "modrinth": "Syrup Library"
+            },
+            "id": {
+                "modrinth": "9tBNzmjo"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "syrup_library-0.2.0+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/ZO0PMDrD/syrup_library-0.2.0+1.20.1-fabric.jar",
+                    "id": "ZO0PMDrD",
+                    "parent_id": "9tBNzmjo",
+                    "hashes": {
+                        "sha512": "fb33b7a0fe1e5c228818f60d7b8f058c8dad6a2ac82071071931f9ace7bcbc5cbd132d7e01a327e2f9c3950c2db60973845ff13d0ef5be2a88a9c76e7e77f3a4",
+                        "sha1": "669f9a953a61c6e698a9f90628ef82c62d67ad09"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 100504,
+                    "date_published": "2026-08-10T23:05:35.858069Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "l8wfMihJgalscP1D",
             "type": "MOD",
             "side": "BOTH",
