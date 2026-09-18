@@ -2707,50 +2707,6 @@
             ]
         },
         {
-            "pakku_id": "R6BtqCjPI08cOL5B",
-            "pakku_links": [
-                "ai7oX1IrfU5qtzTN",
-                "YVisKdMgdqvceVbs"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-missiles"
-            },
-            "name": {
-                "modrinth": "Create Missiles"
-            },
-            "id": {
-                "modrinth": "8dmJJTC3"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "createmissiles-1.0.1+fabric-1.20.1-build.643.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8dmJJTC3/versions/yYtfAJmX/createmissiles-1.0.1+fabric-1.20.1-build.643.jar",
-                    "id": "yYtfAJmX",
-                    "parent_id": "8dmJJTC3",
-                    "hashes": {
-                        "sha512": "048ceac91ae16c96fa6a4f53e0f4cda83875bb0192f9b09c999a7342b066156eca4f4ab56532e2bdf2b360c747f0531d3887a12c529921d089665a4794d1fd6f",
-                        "sha1": "e6f44367b2c6e722b09f37dfcb047a6b1df07166"
-                    },
-                    "required_dependencies": [
-                        "lhGA9TYQ",
-                        "Xbc0uyRg"
-                    ],
-                    "size": 2876974,
-                    "date_published": "2025-11-03T18:35:22.472143Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "tmFjrO4zsmUQh860",
             "type": "MOD",
             "side": "BOTH",
@@ -2958,49 +2914,6 @@
             ]
         },
         {
-            "pakku_id": "S4vexURvRTT5Kdpo",
-            "pakku_links": [
-                "YVisKdMgdqvceVbs"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-dreams-and-desires"
-            },
-            "name": {
-                "modrinth": "Create: Dreams & Desires"
-            },
-            "id": {
-                "modrinth": "JmybsfWs"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create_dd-0.1d.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar",
-                    "id": "Knv9sBsR",
-                    "parent_id": "JmybsfWs",
-                    "hashes": {
-                        "sha512": "51cb4ca9118ca81e42754866c83b1919e303329c004d3e7e4052bf36cf765ae056411d7bbf8b42db17356b35085916cffc5a53cb03efb7791969d03ba19bfa8d",
-                        "sha1": "09de8b59aaeca8d3fe5c0b684c667c77b9818ae2"
-                    },
-                    "required_dependencies": [
-                        "Xbc0uyRg"
-                    ],
-                    "size": 4373010,
-                    "date_published": "2024-04-30T06:31:35.218527Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "x0gnjqJYyE7o5EbD",
             "pakku_links": [
                 "YVisKdMgdqvceVbs",
@@ -3200,46 +3113,6 @@
                     "required_dependencies": [],
                     "size": 211208,
                     "date_published": "2026-04-17T07:07:42.483036Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "i2ujmzix0yXrJwFm",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "createschematicchecker"
-            },
-            "name": {
-                "modrinth": "Create: SchematicChecker"
-            },
-            "id": {
-                "modrinth": "ULzrAD1U"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "CreateSchematicChecker-2.27.45-6.0-fabric-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ULzrAD1U/versions/DgFalkAU/CreateSchematicChecker-2.27.45-6.0-fabric-1.20.1.jar",
-                    "id": "DgFalkAU",
-                    "parent_id": "ULzrAD1U",
-                    "hashes": {
-                        "sha512": "e5939af208d5a4ec04b25a041f266417cb127b24b9a82a04b691a9e31d202372f0aebd7c3154c0b9edece5aef52832716d730000e3ff65a8db6359217939ef09",
-                        "sha1": "27d367f4fd66fd949940f0a36620651c611936d9"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 346088,
-                    "date_published": "2026-08-25T07:04:06.258021Z"
                 }
             ]
         },
@@ -6057,43 +5930,6 @@
                     "required_dependencies": [],
                     "size": 572882,
                     "date_published": "2025-03-11T07:48:33.560474Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "djd8utGNvJ5jOPWx",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "keep-the-resourcepack"
-            },
-            "name": {
-                "modrinth": "Keep The ResourcePack"
-            },
-            "id": {
-                "modrinth": "rsRuYhVp"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "KeepTheResourcePack-1.20.1-1.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/rsRuYhVp/versions/z2N9z0NG/KeepTheResourcePack-1.20.1-1.0.jar",
-                    "id": "z2N9z0NG",
-                    "parent_id": "rsRuYhVp",
-                    "hashes": {
-                        "sha512": "c22239719bbf18c212b63fba58f401cd847551d9202f07944bca4b3ae47ae7415882ff5fd987e058d5eeca825da1d567da8df63f1bdc24d1be5ee026c1b3a0bd",
-                        "sha1": "6818e9fe593773f460bbb19bfb46e2c5e0777de8"
-                    },
-                    "required_dependencies": [],
-                    "size": 8449,
-                    "date_published": "2024-03-13T08:02:29.095337Z"
                 }
             ]
         },
