@@ -2946,6 +2946,46 @@
             ]
         },
         {
+            "pakku_id": "i2ujmzix0yXrJwFm",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "createschematicchecker"
+            },
+            "name": {
+                "modrinth": "Create: SchematicChecker"
+            },
+            "id": {
+                "modrinth": "ULzrAD1U"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CreateSchematicChecker-2.27.45-6.0-fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ULzrAD1U/versions/DgFalkAU/CreateSchematicChecker-2.27.45-6.0-fabric-1.20.1.jar",
+                    "id": "DgFalkAU",
+                    "parent_id": "ULzrAD1U",
+                    "hashes": {
+                        "sha512": "e5939af208d5a4ec04b25a041f266417cb127b24b9a82a04b691a9e31d202372f0aebd7c3154c0b9edece5aef52832716d730000e3ff65a8db6359217939ef09",
+                        "sha1": "27d367f4fd66fd949940f0a36620651c611936d9"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 346088,
+                    "date_published": "2026-08-25T07:04:06.258021Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "kyYlNMPkIfuNYCFI",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
