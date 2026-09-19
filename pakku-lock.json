@@ -2030,26 +2030,27 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorful_armor_bar-0.4.2+1.20.1-fabric.jar",
+                    "file_name": "colorful_armor_bar-1.0.1+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/MvGYjlGe/colorful_armor_bar-0.4.2+1.20.1-fabric.jar",
-                    "id": "MvGYjlGe",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/guRp4zrD/colorful_armor_bar-1.0.1+1.20.1-fabric.jar",
+                    "id": "guRp4zrD",
                     "parent_id": "kQZ7uiYu",
                     "hashes": {
-                        "sha512": "bd079bbdc1a2519bc53f165c7e6d7fa5c73ff077869a73a94b57c8cd6607ff0a771ea638846e53a7acf153a0d78148e77e9790f323c5534540e12ae66c6f5615",
-                        "sha1": "d7eae86d8fc4f286d40d7e46d95193213461328f"
+                        "sha512": "30315d869cda6462d9c25ff3f0dc167608f3bf1dfd5366e87834558e0eab9227ffc29352c42b3fc8b55ae86015eaab37d345b759c32b94ea26d1969936557e22",
+                        "sha1": "3c96232d6955ad8d959fef0478fe7428e3d1a3fa"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "9tBNzmjo"
                     ],
-                    "size": 432514,
-                    "date_published": "2026-08-13T01:47:16.905761Z"
+                    "size": 337639,
+                    "date_published": "2026-09-19T16:58:06.718491Z"
                 }
             ]
         },
@@ -9121,7 +9122,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "syrup_library-0.2.0+1.20.1-fabric.jar",
+                    "file_name": "syrup_library-0.3.0+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9129,18 +9130,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/ZO0PMDrD/syrup_library-0.2.0+1.20.1-fabric.jar",
-                    "id": "ZO0PMDrD",
+                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/HShHiJp0/syrup_library-0.3.0+1.20.1-fabric.jar",
+                    "id": "HShHiJp0",
                     "parent_id": "9tBNzmjo",
                     "hashes": {
-                        "sha512": "fb33b7a0fe1e5c228818f60d7b8f058c8dad6a2ac82071071931f9ace7bcbc5cbd132d7e01a327e2f9c3950c2db60973845ff13d0ef5be2a88a9c76e7e77f3a4",
-                        "sha1": "669f9a953a61c6e698a9f90628ef82c62d67ad09"
+                        "sha512": "304d76c17d31916b4c230d7cf95804472c214f667d700578ed1ce7e19f5bec9bb79cdd908fd39c2f80abc4adabf945d068a74cbc1084b005965a11ff8f9c0749",
+                        "sha1": "b35b9eeb185369428f90797220fa07763ea98256"
                     },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 100504,
-                    "date_published": "2026-08-10T23:05:35.858069Z"
+                    "required_dependencies": [],
+                    "size": 389980,
+                    "date_published": "2026-09-18T13:22:22.919299Z"
                 }
             ]
         },
