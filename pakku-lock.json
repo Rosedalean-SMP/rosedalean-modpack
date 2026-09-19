@@ -3401,6 +3401,49 @@
             ]
         },
         {
+            "pakku_id": "JQvuPmY8HNoXOMzu",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "data-anchor"
+            },
+            "name": {
+                "modrinth": "Data Anchor"
+            },
+            "id": {
+                "modrinth": "z2XEADmE"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Data_Anchor-fabric-1.20.1-1.0.0.22.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/z2XEADmE/versions/JRH5MVgG/Data_Anchor-fabric-1.20.1-1.0.0.22.jar",
+                    "id": "JRH5MVgG",
+                    "parent_id": "z2XEADmE",
+                    "hashes": {
+                        "sha512": "62d8e6d25404364e3f20303d03670315a5ee987fb1229d9c80d230d77da5943ba96e365cf54659c4261a3a755b70f1dcde6b77ab91fff17739dcae857631eaba",
+                        "sha1": "7f753e56cbc46d743653571db7020912d149e405"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 122097,
+                    "date_published": "2026-08-06T20:14:10.099138Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "XyD7oYN7ydXfAjDw",
             "pakku_links": [
                 "KsmkH8yU2AogG10e"
@@ -9660,6 +9703,54 @@
                     "required_dependencies": [],
                     "size": 487043,
                     "date_published": "2023-09-16T01:42:48.311988Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yFz0MYl4xA1qx87C",
+            "pakku_links": [
+                "JQvuPmY8HNoXOMzu",
+                "aEw1pnCK67KumHLV",
+                "6NDM0rTQzdX3kTSU",
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "via-romana"
+            },
+            "name": {
+                "modrinth": "Via Romana: Infrastructure-Driven Fast Travel"
+            },
+            "id": {
+                "modrinth": "FVToiKwr"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "via_romana-2.2.3+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FVToiKwr/versions/d4GYLwBN/via_romana-2.2.3+1.20.1-fabric.jar",
+                    "id": "d4GYLwBN",
+                    "parent_id": "FVToiKwr",
+                    "hashes": {
+                        "sha512": "40c29688bc6f921425660ee8597b7355a129dba61abc9febdad3d5ec972d9b1a820e2d5bb22fe781d77de1d63f8dee82713d742214a2f1520ebab0fe875ab1ed",
+                        "sha1": "4d3a143498a4cc895edea63593cb609d9affb435"
+                    },
+                    "required_dependencies": [
+                        "z2XEADmE",
+                        "twkfQtEc",
+                        "codAaoxh",
+                        "P7dR8mSH"
+                    ],
+                    "size": 1255805,
+                    "date_published": "2026-08-13T08:41:10.600050Z"
                 }
             ]
         },
