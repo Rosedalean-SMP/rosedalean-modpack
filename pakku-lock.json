@@ -2935,7 +2935,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create-enchantment-industry-fabric-1.20.1-2.5.2-e.jar",
+                    "file_name": "create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2943,20 +2943,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/jJ3Necmv/create-enchantment-industry-fabric-1.20.1-2.5.2-e.jar",
-                    "id": "jJ3Necmv",
+                    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Or9rfT7c/create-enchantment-industry-fabric-1.20.1-2.5.2-g.jar",
+                    "id": "Or9rfT7c",
                     "parent_id": "JWGBpFUP",
                     "hashes": {
-                        "sha512": "058857bba017ec078c01f043bcb708a574ba109b8f8424da0ea32fd0ce614da6ded4008e29dd49fa22d29f8a27908706e4b12799f4fc756f5ce4032190345679",
-                        "sha1": "498468a6454d7371f03c7b922f5851ac6d605b61"
+                        "sha512": "a1dd05201a7124445ba18a85ac72176de885c89a75227cf172b411fc821d7705de076d35c12bf8fbd48ca82aa77cff384f4f8158988d43a1de1495b22bdc660b",
+                        "sha1": "733a974f7a8b67a0efde101ee534d38172fa95ab"
                     },
                     "required_dependencies": [
-                        "Xbc0uyRg",
                         "P7dR8mSH",
-                        "dzb1a5WV"
+                        "dzb1a5WV",
+                        "Xbc0uyRg"
                     ],
-                    "size": 1686016,
-                    "date_published": "2026-08-20T01:31:27.057776Z"
+                    "size": 1686702,
+                    "date_published": "2026-08-29T16:29:25.363093Z"
                 }
             ]
         },
