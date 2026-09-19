@@ -5499,7 +5499,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
+                    "file_name": "hybrid_aquatic-fabric-1.20.1-1.7.2.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -5507,16 +5507,24 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/ilV3D2yr/[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar",
-                    "id": "ilV3D2yr",
+                    "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/XPbuz6ie/hybrid_aquatic-fabric-1.20.1-1.7.2.jar",
+                    "id": "XPbuz6ie",
                     "parent_id": "HH4FjUqN",
                     "hashes": {
-                        "sha512": "a3f86f201cecd0d2bb89dff7ec9a9f944f1a26db48aa6e88f4327eed4574d77c1bb881ef824c83cc600ff240a3df071feb1ecae277c390412145023bca2ec4d8",
-                        "sha1": "5449e902be5d4faf4d94371a398720c9e6cb4224"
+                        "sha512": "8d6b46ad52279a03b5f3c978a8ee93667fbf159cb04d96f6a74e9e69212a6b34b7a17f63afa9248b2ce1e7582da96ef0ef6560628fa19ee90c3738d2bd224546",
+                        "sha1": "bdd56101ad9f86369c053dd34d6fd0ca2c5b8932"
                     },
-                    "required_dependencies": [],
-                    "size": 3382958,
-                    "date_published": "2025-12-25T00:12:48.887003Z"
+                    "required_dependencies": [
+                        "iGEl6Crx",
+                        "P7dR8mSH",
+                        "8BmcQJ2H",
+                        "Ha28R6CL",
+                        "XaDC71GB",
+                        "yv9f5EAG",
+                        "5aaWibi9"
+                    ],
+                    "size": 6128023,
+                    "date_published": "2026-09-15T22:15:08.418657Z"
                 }
             ]
         },
