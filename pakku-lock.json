@@ -1074,6 +1074,45 @@
             ]
         },
         {
+            "pakku_id": "QZFnQpr9SDaeyKMn",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "biolith"
+            },
+            "name": {
+                "modrinth": "Biolith"
+            },
+            "id": {
+                "modrinth": "iGEl6Crx"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "biolith-fabric-1.0.1-beta.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/NikAXMfS/biolith-fabric-1.0.1-beta.1.jar",
+                    "id": "NikAXMfS",
+                    "parent_id": "iGEl6Crx",
+                    "hashes": {
+                        "sha512": "5f9b5fbedb7a7afa61653c9ee76c34b0ecd7f65dc4525d50874848587344384298c12ebafbbcb7ddca359e0f4ad27e709d75d02fd32fc60de4d566e801651ca7",
+                        "sha1": "a52e3880f50d50cd3b95b24348bb8b6a1f0ed673"
+                    },
+                    "required_dependencies": [],
+                    "size": 152913,
+                    "date_published": "2026-06-16T00:09:23.152472Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zjJPKBVF8TzQe41L",
             "pakku_links": [
                 "Vhq3yWqvdXB7IvMl",
@@ -5527,7 +5566,55 @@
             ]
         },
         {
+            "pakku_id": "wM5PgxUcAzszaggM",
+            "pakku_links": [
+                "szOWRn9VpRpiOjom",
+                "T1fL70Tex1iJ048s"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "hybrid-api"
+            },
+            "name": {
+                "modrinth": "Hybrid API"
+            },
+            "id": {
+                "modrinth": "yv9f5EAG"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "hapi-fabric-1.20.1-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yv9f5EAG/versions/oU0UFG7k/hapi-fabric-1.20.1-1.1.0.jar",
+                    "id": "oU0UFG7k",
+                    "parent_id": "yv9f5EAG",
+                    "hashes": {
+                        "sha512": "9593ba06ba7e71e424379b1adf861c004f0df9cf000ffc844c6da4618711adbd8f3a051af44e6faec9e48ee881c98a2106106663c94bb0a5fb80a01789b03948",
+                        "sha1": "d8c07d11578e2344f956a04d3d76adc702b8b31d"
+                    },
+                    "required_dependencies": [
+                        "Ha28R6CL",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 804682,
+                    "date_published": "2026-09-12T22:30:19.072912Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EzVlcPI0nvI2Ct16",
+            "pakku_links": [
+                "wM5PgxUcAzszaggM",
+                "QZFnQpr9SDaeyKMn"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -9160,7 +9247,7 @@
                 "sscVhAQJqsV1YuUd"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "syrup-library"
             },
