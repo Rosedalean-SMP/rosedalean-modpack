@@ -739,6 +739,49 @@
             ]
         },
         {
+            "pakku_id": "qmGs458dcivBknk3",
+            "pakku_links": [
+                "7AOvAcNybKkCYO9w"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "beltborne-lanterns"
+            },
+            "name": {
+                "modrinth": "Beltborne Lanterns"
+            },
+            "id": {
+                "modrinth": "NUFDZAKS"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "beltborne_lanterns-1.2.4-fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/NUFDZAKS/versions/nTnLqaUg/beltborne_lanterns-1.2.4-fabric+1.20.1.jar",
+                    "id": "nTnLqaUg",
+                    "parent_id": "NUFDZAKS",
+                    "hashes": {
+                        "sha512": "f57085a188eb1c699183db6fa5c22706f11777c9ad801937f437eb8124622576e8024986c46fa8a54c4f3689b16c04ca1246df6b7c4c8def335fe11b3b955b73",
+                        "sha1": "ef02837192033c55619e7f5e467e4358881ffcf1"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 132434,
+                    "date_published": "2026-01-28T19:32:07.760151Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mk3xOSzlmjqWwpn6",
             "type": "MOD",
             "side": "CLIENT",
