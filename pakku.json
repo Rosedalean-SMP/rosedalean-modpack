@@ -109,6 +109,9 @@
         },
         "yungs-better-witch-huts": {
             "side": "BOTH"
+        },
+        "syrup-library": {
+            "side": "BOTH"
         }
     }
 }
