@@ -1,6 +1,6 @@
 {
     "name": "Rosedalean SMP",
-    "version": "3.10.0-alpha",
+    "version": "2.3.0-alpha",
     "projects": {
         "geckolib": {
             "side": "BOTH"
