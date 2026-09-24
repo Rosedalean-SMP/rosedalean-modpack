@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "2.3.0-alpha",
+      "releasedAt": 1790223130000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/rosedalean-smp/version/2.3.0-alpha",
+          "generic": "https://github.com/Rosedalean-SMP/rosedalean-modpack"
+        }
+      }
+    }
+  ]
+}

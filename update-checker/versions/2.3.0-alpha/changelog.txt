@@ -1,0 +1,60 @@
+## Rosedalean SMP 2.3.0-alpha
+
+### Updated
+
+- Create: Enchantment Industry from 1.8.3 to 2.5.2-g
+- Plushie Friends from 0.5.3 to 1.0.0
+- Hybrid Aquatic from 1.5.4 to 1.7.2
+
+### Added
+
+- Amendments
+- Athena
+- Balm
+- Beltborne Lanterns
+- Biolith
+- Chipped
+- Collective
+- Colorful Armor Bar
+- Corn Expansion
+- Cosmetic Armor
+- CraterLib
+- Create: Dragons Plus
+- Create: Vibrant Vaults
+- Data Anchor
+- Default Options
+- Dusty Decorations
+- EntityCulling
+- Fairy Lights
+- FTB Library
+- FTB Quests
+- FTB Teams
+- Hybrid API
+- Immersive Armors
+- Items Displayed
+- Cluttered
+- Pehkui
+- Platform
+- PreLoader
+- Record Vault
+- ResourcePackCached
+- Simple RPC
+- Syrup Library
+- Thulium Fabric
+- TxniLib
+- VanillaBackport
+- Via Romana
+
+### Removed
+
+- Better Beds (Breaks beds and Enhanced Block entities does the same essentially)
+- Config Manager (in favour for Default Options)
+- Autocrafter Early (in favour of VanillaBackport)
+- Create: Quartz & Calcite Recipes (is a script now)
+- Create: Ultimate Factory (is a script now)
+- Create: Broken Bad
+- Create: Compat BetterEnd & BetterNether (is a script now)
+- Let's Do API
+- Happy Ghast Legacy (in favour of VanillaBackport)
+- Better Crafts: Shulker Shell (is a script now)
+- An incorrect Forge build of Create

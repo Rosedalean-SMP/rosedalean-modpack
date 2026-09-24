@@ -516,6 +516,70 @@
             ]
         },
         {
+            "pakku_id": "JY8JDJ8jzyi78K6Q",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "auto-fishing"
+            },
+            "name": {
+                "modrinth": "Auto Fishing +"
+            },
+            "id": {
+                "modrinth": "GaJJVZl4"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "autofish-1.1.3.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GaJJVZl4/versions/VRxZn9bd/autofish-1.1.3.jar",
+                    "id": "VRxZn9bd",
+                    "parent_id": "GaJJVZl4",
+                    "hashes": {
+                        "sha512": "36dc46b01425b1bb9696f8982df5d4ff3c00e7ab666440397400869b92da2eff00454609f58382eb9f444ebb6d90fe30fc314f140d552288d9bc2cecfe307828",
+                        "sha1": "6da443d979d47c48f38d28ac5bedda989b1e9f8e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 42105,
+                    "date_published": "2025-12-07T07:20:16.232368Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "SeaZvKnTylZcKHuF",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
@@ -815,6 +879,48 @@
                     "required_dependencies": [],
                     "size": 97692,
                     "date_published": "2026-05-22T19:13:07.787351Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hEfharABsyjcjHLU",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "better-compatibility-checker"
+            },
+            "name": {
+                "modrinth": "Better Compatibility Checker"
+            },
+            "id": {
+                "modrinth": "KJhXPbHQ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+                    "id": "gatP97QZ",
+                    "parent_id": "KJhXPbHQ",
+                    "hashes": {
+                        "sha512": "b6b042dde4d58d858dc7dbad95c40020ad1f9e54e6c078f4534b1df1253f3f339e32d55d83f3796030b0f11a495cfcf872ef5c48750591121ce4bb32147709f4",
+                        "sha1": "0c4dda5c9ebe5fcedd829996a272009f3122630a"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 26039,
+                    "date_published": "2023-09-16T14:39:59.295390Z"
                 }
             ]
         },
@@ -7044,6 +7150,48 @@
                     "required_dependencies": [],
                     "size": 545175,
                     "date_published": "2025-12-08T02:42:13.107581Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "s8wz1Y9fpngprVJ1",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "modpack-update-checker"
+            },
+            "name": {
+                "modrinth": "Modpack Update Checker"
+            },
+            "id": {
+                "modrinth": "rR4tY6Cw"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modpack-update-checker-1.20.1-fabric-0.15.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/rR4tY6Cw/versions/LVoowSbQ/modpack-update-checker-1.20.1-fabric-0.15.6.jar",
+                    "id": "LVoowSbQ",
+                    "parent_id": "rR4tY6Cw",
+                    "hashes": {
+                        "sha512": "7678c4c0f5aa90357ac36d1ce3cb6a1ecb7ae5db7d7a08d6b2e7fdce90a32bf6c69142441545b8f7823c165736e3446e307cc3a5c63eb091e49258c4b8df9523",
+                        "sha1": "5acd6bafbdde41d3d6b025772b4eacce5a710e0f"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 420463,
+                    "date_published": "2025-06-22T04:20:22.075709Z"
                 }
             ]
         },
