@@ -1076,7 +1076,7 @@
         {
             "pakku_id": "QZFnQpr9SDaeyKMn",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "biolith"
             },

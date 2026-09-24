@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "minecraftVersion": "1.20.1",
+  "loader": "fabric",
+  "settings": {},
+  "mods": [
+    {
+      "id": "ftblibrary",
+      "name": "FTB Library",
+      "enabled": true,
+      "required": true,
+      "side": "both",
+      "version": "2001.2.12",
+      "fileName": "ftb-library-fabric-2001.2.12.jar",
+      "source": {
+        "type": "browser",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/download/7296747"
+      },
+      "sha256": "d0f868c1d9bbf5a8bf681ff411cb71a4057e27cc70d71e0f115eef2a259511d4"
+    },
+    {
+      "id": "ftbteams",
+      "name": "FTB Teams",
+      "enabled": true,
+      "required": true,
+      "side": "both",
+      "version": "2001.3.2",
+      "fileName": "ftb-teams-fabric-2001.3.2.jar",
+      "source": {
+        "type": "browser",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric/download/7499808"
+      },
+      "sha256": "1d85a7b258997084c9831208310de34d2c3f95136d5414f70225456899c0913c"
+    },
+    {
+      "id": "ftbquests",
+      "name": "FTB Quests",
+      "enabled": true,
+      "required": true,
+      "side": "both",
+      "version": "2001.4.22",
+      "fileName": "ftb-quests-fabric-2001.4.22.jar",
+      "source": {
+        "type": "browser",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/download/8078537"
+      },
+      "sha256": "eebcb08e9ed9d70788c4b8192d3b5b74b2b896b936159847a7a7ea1491c80cbb"
+    }
+  ]
+}
