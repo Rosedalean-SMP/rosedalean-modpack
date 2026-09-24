@@ -5765,6 +5765,45 @@
             ]
         },
         {
+            "pakku_id": "L3WbnBaStPTptdCe",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "icterine"
+            },
+            "name": {
+                "modrinth": "Icterine"
+            },
+            "id": {
+                "modrinth": "7RvRWn6p"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Icterine-fabric-1.20.0-1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7RvRWn6p/versions/GI28mwG5/Icterine-fabric-1.20.0-1-1.3.0.jar",
+                    "id": "GI28mwG5",
+                    "parent_id": "7RvRWn6p",
+                    "hashes": {
+                        "sha512": "327bffae60851ab969af9a8945990a7e537627db2379f9110644753438133ccae64134e35055a7edf7c8baaa003e65cd0f660c807ee805d9b1a995d16df16bb8",
+                        "sha1": "7fba5fc91b2d5246db0ceb44d8c1406f29b5aa3c"
+                    },
+                    "required_dependencies": [],
+                    "size": 39604,
+                    "date_published": "2024-02-10T22:12:12.962242Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8hxgqjQJksjG9C10",
             "pakku_links": [
                 "sscVhAQJqsV1YuUd"
