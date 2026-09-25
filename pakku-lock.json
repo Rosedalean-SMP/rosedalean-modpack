@@ -9688,6 +9688,48 @@
             ]
         },
         {
+            "pakku_id": "u7gP9JZB2pRQZNDq",
+            "pakku_links": [
+                "sscVhAQJqsV1YuUd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "timber-frames"
+            },
+            "name": {
+                "modrinth": "Timber Frames"
+            },
+            "id": {
+                "modrinth": "M7N4aD7O"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "timber_frames-3.0.0+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/M7N4aD7O/versions/iNQ6y1Vd/timber_frames-3.0.0+1.20.1-fabric.jar",
+                    "id": "iNQ6y1Vd",
+                    "parent_id": "M7N4aD7O",
+                    "hashes": {
+                        "sha512": "5620adda2d3036b8bdd0e28c394e6ae4391880b3764de7630eac80e2bbff5931f47463f72e76092b3da45a513c7807530ce63b1003dc680a6d45011f562aa2c0",
+                        "sha1": "89592cc374342d936aacc9fa99342f50fcc87f41"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 285640,
+                    "date_published": "2026-08-18T00:31:49.985329Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "85p4ptPdcufszQlg",
             "type": "MOD",
             "side": "BOTH",
