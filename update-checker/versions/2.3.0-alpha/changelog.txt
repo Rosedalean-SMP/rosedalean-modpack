@@ -38,6 +38,7 @@
 - PreLoader
 - Record Vault
 - ResourcePackCached
+- Timber Frames
 - Simple RPC
 - Syrup Library
 - Thulium Fabric
