@@ -116,6 +116,9 @@
         },
         "biolith": {
             "side": "BOTH"
+        },
+        "indium": {
+            "side": "BOTH"
         }
     }
 }
