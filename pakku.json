@@ -119,6 +119,9 @@
         },
         "indium": {
             "side": "BOTH"
+        },
+        "athena-ctm": {
+            "side": "BOTH"
         }
     }
 }
