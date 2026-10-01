@@ -2218,7 +2218,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorful_armor_bar-1.0.1+1.20.1-fabric.jar",
+                    "file_name": "colorful_armor_bar-1.0.2+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2226,19 +2226,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/guRp4zrD/colorful_armor_bar-1.0.1+1.20.1-fabric.jar",
-                    "id": "guRp4zrD",
+                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/GAFK3NLs/colorful_armor_bar-1.0.2+1.20.1-fabric.jar",
+                    "id": "GAFK3NLs",
                     "parent_id": "kQZ7uiYu",
                     "hashes": {
-                        "sha512": "30315d869cda6462d9c25ff3f0dc167608f3bf1dfd5366e87834558e0eab9227ffc29352c42b3fc8b55ae86015eaab37d345b759c32b94ea26d1969936557e22",
-                        "sha1": "3c96232d6955ad8d959fef0478fe7428e3d1a3fa"
+                        "sha512": "d9319e11713878abe122e956e0bc559c44ea487d4072798a2fb247b9a72f0fa81cb05ea8367009a95945b0df1b10b8bc538c84d0bd9afe40ff61e7409cc60983",
+                        "sha1": "e1f80e5eea8663cc7e36c379050cab1b7a605aff"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "9tBNzmjo"
                     ],
-                    "size": 337639,
-                    "date_published": "2026-09-19T16:58:06.718491Z"
+                    "size": 337677,
+                    "date_published": "2026-09-26T06:42:14.304217Z"
                 }
             ]
         },
@@ -8088,7 +8088,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "plushie_friends-1.0.0+1.20.1-fabric.jar",
+                    "file_name": "plushie_friends-1.0.2+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8096,16 +8096,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/4elN3I0W/plushie_friends-1.0.0+1.20.1-fabric.jar",
-                    "id": "4elN3I0W",
+                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/aLh7phbu/plushie_friends-1.0.2+1.20.1-fabric.jar",
+                    "id": "aLh7phbu",
                     "parent_id": "dcPq78Za",
                     "hashes": {
-                        "sha512": "b4a716cf9bbf711b44eaffbd837ea0675c87c6ba96cdf94c2fc797be741eea44b914687cf707d50eefb7fa0e908e5a68b0894c1e0d8df452cc2991f7d32e0324",
-                        "sha1": "39ff62e951aacf22d8761b4be354bce36faf5dea"
+                        "sha512": "03c156f4101a8d284bfe260bf4d8bf931aede80d988da98dbf52eefbd8484a1bfc4f6d40facc0fee39ea2ac9a951a79b0d410d5e16a43d589e5ef77b2a48f818",
+                        "sha1": "44474817bd7a648a49a65597287313ee81a7adf6"
                     },
-                    "required_dependencies": [],
-                    "size": 296321,
-                    "date_published": "2026-08-09T23:14:57.194994Z"
+                    "required_dependencies": [
+                        "9tBNzmjo",
+                        "P7dR8mSH"
+                    ],
+                    "size": 91395,
+                    "date_published": "2026-09-29T23:58:25.397845Z"
                 }
             ]
         },
@@ -9511,7 +9514,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "syrup_library-0.3.0+1.20.1-fabric.jar",
+                    "file_name": "syrup_library-0.5.1+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9519,16 +9522,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/HShHiJp0/syrup_library-0.3.0+1.20.1-fabric.jar",
-                    "id": "HShHiJp0",
+                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/Hshsaf85/syrup_library-0.5.1+1.20.1-fabric.jar",
+                    "id": "Hshsaf85",
                     "parent_id": "9tBNzmjo",
                     "hashes": {
-                        "sha512": "304d76c17d31916b4c230d7cf95804472c214f667d700578ed1ce7e19f5bec9bb79cdd908fd39c2f80abc4adabf945d068a74cbc1084b005965a11ff8f9c0749",
-                        "sha1": "b35b9eeb185369428f90797220fa07763ea98256"
+                        "sha512": "5d71097f3f6820f18153908d9ef44ef73cfd1d046920e28893c7f16525f2e05fe2d15570f838e154fb861076bdaed5bce55314fbeed75e8781feea40f4a8307c",
+                        "sha1": "39a1a088bca1043adfb449de7aaa50d5f7f0ca24"
                     },
                     "required_dependencies": [],
-                    "size": 389980,
-                    "date_published": "2026-09-18T13:22:22.919299Z"
+                    "size": 225044,
+                    "date_published": "2026-09-28T03:58:39.205046Z"
                 }
             ]
         },

@@ -46,6 +46,9 @@
 - VanillaBackport
 - Via Romana
 
+### Changed
+- Create mod recipe: mix 2 dirt and 2 gravel into 4 coarse dirt; crush coarse dirt into dirt
+
 ### Removed
 
 - Better Beds (Breaks beds and Enhanced Block entities does the same essentially)
