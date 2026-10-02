@@ -1,0 +1,6 @@
+## Rosedalean SMP 2.3.1-alpha
+
+### Changed
+
+- Set Indium and Athena CTM to load on both client and server.
+- Disabled pixel-consistent sign rendering in Amendments.
