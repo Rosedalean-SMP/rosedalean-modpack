@@ -1,0 +1,5 @@
+## Rosedalean SMP 2.3.2
+
+### Added
+
+- Added peaceful crafting recipes for mob drops, mob heads, and meat.
